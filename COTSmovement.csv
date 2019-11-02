@@ -1,0 +1,1105 @@
+Reef,Location,Transect,Depth,Coral Cover,Diam_cm,Date,Time,Exposure,Behaviour,PreyItem,X_transect,Y _belt,Exposure_binary,Time_Cat
+Rib Reef,Site A,A-01,6m,39,30,10/12/2016,11:30:00,100,Moving,,0.1,3.4,1,Midday
+Rib Reef,Site A,A-01,6m,39,28,10/12/2016,11:30:00,0,Resting,,0.1,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,30,10/12/2016,11:30:00,0,Resting,,0.1,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,10/12/2016,11:30:00,0,Resting,,0.1,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,30,10/12/2016,11:30:00,0,Resting,,0.1,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,10/12/2016,11:30:00,0,Resting,,0.1,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,10/12/2016,11:30:00,0,Resting,,0.1,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,10/12/2016,11:30:00,0,Resting,,0.1,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,35,10/12/2016,11:30:00,100,Feeding,Acropora,14.4,-3,1,Midday
+Rib Reef,Site A,A-01,6m,39,35,10/12/2016,11:30:00,50,Moving,,0.3,2.3,0,Midday
+Rib Reef,Site A,A-01,6m,39,27,10/12/2016,11:30:00,100,Feeding,Acropora,12.1,1.5,1,Midday
+Rib Reef,Site A,A-01,6m,39,53,10/12/2016,11:30:00,100,Feeding,A. hyacinthus,8.6,1.5,1,Midday
+Rib Reef,Site A,A-01,6m,39,40,10/12/2016,11:30:00,100,Feeding,A. hyacinthus,18.6,1.5,1,Midday
+Rib Reef,Site A,A-01,6m,39,40,10/12/2016,11:30:00,100,Feeding,A. hyacinthus,18.6,1.5,1,Midday
+Rib Reef,Site A,A-01,6m,39,35,10/12/2016,11:30:00,0,Resting,,18.7,0,0,Midday
+Rib Reef,Site A,A-01,6m,39,49,10/12/2016,11:30:00,100,Moving,,6.2,4.3,1,Midday
+Rib Reef,Site A,A-01,6m,39,27,10/12/2016,11:30:00,0,Resting,,21.3,0,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,10/12/2016,11:30:00,0,Resting,,26.3,0.8,0,Midday
+Rib Reef,Site A,A-01,6m,39,35,10/12/2016,11:30:00,100,Feeding,A. humilis,35,2.3,1,Midday
+Rib Reef,Site A,A-01,6m,39,41,10/12/2016,11:30:00,100,Moving,,27.3,1.2,1,Midday
+Rib Reef,Site A,A-01,6m,39,39,10/12/2016,11:30:00,0,Resting,,49.5,1,0,Midday
+Rib Reef,Site A,A-01,6m,39,44,10/12/2016,11:30:00,50,Feeding,A. humilis,36,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,33,10/12/2016,11:30:00,0,Resting,,32,-0.5,0,Midday
+Rib Reef,Site A,A-01,6m,39,31,10/12/2016,11:30:00,50,Feeding,Pocillopora,40.2,-2.5,0,Midday
+Rib Reef,Site A,A-01,6m,39,24,10/12/2016,11:30:00,0,Resting,,0,0.3,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,10/12/2016,11:30:00,0,Moving,,2.4,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,30,10/12/2016,11:30:00,50,Resting,,0.5,0.4,0,Midday
+Rib Reef,Site A,A-01,6m,39,36,10/12/2016,11:30:00,0,Resting,,45,2.2,0,Midday
+Rib Reef,Site A,A-01,6m,39,33,10/12/2016,11:30:00,0,Feeding,A. hyacinthus,49.8,-0.3,0,Midday
+Rib Reef,Site A,A-01,6m,39,36,10/12/2016,11:30:00,0,Feeding,A. hyacinthus,27,1,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,10/12/2016,11:30:00,50,Resting,,47.8,0,0,Midday
+Rib Reef,Site A,A-01,6m,39,28,10/12/2016,11:30:00,0,Resting,,0,5.1,0,Midday
+Rib Reef,Site A,A-01,6m,39,30,10/12/2016,11:30:00,0,Resting,,0,5.1,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,10/12/2016,11:30:00,0,Resting,,0,5.1,0,Midday
+Rib Reef,Site A,A-01,6m,39,30,10/12/2016,11:30:00,0,Resting,,0,5.1,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,10/12/2016,11:30:00,0,Resting,,0,5.1,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,10/12/2016,11:30:00,0,Resting,,0,5.1,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,10/12/2016,11:30:00,0,Resting,,0,5.1,0,Midday
+Rib Reef,Site A,A-01,6m,39,20,10/12/2016,11:30:00,100,Feeding,Acropora,5,-3,1,Midday
+Rib Reef,Site A,A-01,6m,39,24,10/12/2016,11:30:00,0,Resting,,5,-3,0,Midday
+Rib Reef,Site A,A-01,6m,39,56,10/12/2016,11:30:00,0,Resting,,5,-3,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,10/12/2016,11:30:00,0,Resting,,20.9,1.5,0,Midday
+Rib Reef,Site A,A-01,6m,39,20,10/12/2016,11:30:00,10,Moving,,20.9,1.5,0,Midday
+Rib Reef,Site A,A-01,6m,39,36,10/12/2016,11:30:00,0,Feeding,A. hyacinthus,29,1,0,Midday
+Rib Reef,Site A,A-01,6m,39,36,10/12/2016,11:30:00,50,Feeding,Acropora,29,1.2,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,10/12/2016,11:30:00,0,Resting,,17.6,-1.9,0,Midday
+Rib Reef,Site A,A-01,6m,39,30,10/12/2016,11:30:00,0,Resting,,10.6,1,0,Midday
+Rib Reef,Site A,A-01,6m,39,20,10/12/2016,11:30:00,0,Resting,,44.6,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,20,10/12/2016,11:30:00,0,Resting,,41.6,-3.5,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,10/12/2016,11:30:00,0,Resting,,40.3,-1.8,0,Midday
+Rib Reef,Site A,A-01,6m,39,30,9/12/2016,13:00:00,100,Moving,,0.1,3.4,1,Midday
+Rib Reef,Site A,A-01,6m,39,28,9/12/2016,13:00:00,0,Resting,,0.1,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,30,9/12/2016,13:00:00,0,Resting,,0.1,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,13:00:00,0,Resting,,0.1,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,30,9/12/2016,13:00:00,0,Resting,,0.1,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,13:00:00,0,Resting,,0.1,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,13:00:00,0,Resting,,0.1,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,13:00:00,0,Resting,,0.1,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,35,9/12/2016,13:00:00,100,Feeding,Acropora,2.2,5.1,1,Midday
+Rib Reef,Site A,A-01,6m,39,34,9/12/2016,13:00:00,100,Resting,,0,1.2,1,Midday
+Rib Reef,Site A,A-01,6m,39,35,9/12/2016,13:00:00,0,Resting,,0,1.2,0,Midday
+Rib Reef,Site A,A-01,6m,39,24,9/12/2016,13:00:00,100,Feeding,Acropora,1.2,-0.3,1,Midday
+Rib Reef,Site A,A-01,6m,39,27,9/12/2016,13:00:00,100,Feeding,acropora,12.2,0,1,Midday
+Rib Reef,Site A,A-01,6m,39,53,9/12/2016,13:00:00,0,Feeding,acropora,16,-2.8,0,Midday
+Rib Reef,Site A,A-01,6m,39,40,9/12/2016,13:00:00,0,Resting,,17.5,-2.7,0,Midday
+Rib Reef,Site A,A-01,6m,39,28,9/12/2016,13:00:00,50,Resting,,17.6,-2.2,0,Midday
+Rib Reef,Site A,A-01,6m,39,40,9/12/2016,13:00:00,10,Resting,,17.6,-1.9,0,Midday
+Rib Reef,Site A,A-01,6m,39,35,9/12/2016,13:00:00,0,Resting,,18,-2,0,Midday
+Rib Reef,Site A,A-01,6m,39,23,9/12/2016,13:00:00,0,Resting,,18,-2,0,Midday
+Rib Reef,Site A,A-01,6m,39,28,9/12/2016,13:00:00,0,Resting,,17.6,1.5,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,13:00:00,0,Resting,,17.8,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,22,9/12/2016,13:00:00,30,Moving,,18.9,2,0,Midday
+Rib Reef,Site A,A-01,6m,39,49,9/12/2016,13:00:00,60,Feeding,Acropora,7.4,-3,1,Midday
+Rib Reef,Site A,A-01,6m,39,27,9/12/2016,13:00:00,0,Resting,,13.8,0,0,Midday
+Rib Reef,Site A,A-01,6m,39,26,9/12/2016,13:00:00,100,Feeding,Acropora,22.8,0.2,1,Midday
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,13:00:00,0,Resting,,26.3,0.8,0,Midday
+Rib Reef,Site A,A-01,6m,39,35,9/12/2016,13:00:00,0,Resting,,34,0,0,Midday
+Rib Reef,Site A,A-01,6m,39,41,9/12/2016,13:00:00,50,Feeding,Favites,35.7,1.5,0,Midday
+Rib Reef,Site A,A-01,6m,39,39,9/12/2016,13:00:00,50,Feeding,Acropora,35.7,-0.6,0,Midday
+Rib Reef,Site A,A-01,6m,39,44,9/12/2016,13:00:00,100,Moving,,33.9,-2.2,1,Midday
+Rib Reef,Site A,A-01,6m,39,33,9/12/2016,13:00:00,100,Resting,,32.4,-5,1,Midday
+Rib Reef,Site A,A-01,6m,39,31,9/12/2016,13:00:00,50,Feeding,Pocillopora,40.2,-2.5,0,Midday
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,13:00:00,0,Resting,,41.1,-2,0,Midday
+Rib Reef,Site A,A-01,6m,39,36,9/12/2016,15:00:00,50,Feeding,,44.3,2,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,32,9/12/2016,15:00:00,20,Moving,,44,3,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,28,9/12/2016,15:00:00,100,Moving,,36.3,2.8,1,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,15:00:00,20,Moving,,48.6,-0.3,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,33,9/12/2016,15:00:00,0,Feeding,A. hyacinthus,49.8,-0.3,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,36,9/12/2016,15:00:00,80,Feeding,Acropora,49.8,-0.2,1,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,15:00:00,0,Resting,,49.5,0,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,15:00:00,0,Resting,,45,3,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,22,9/12/2016,15:00:00,100,Feeding,Favites,11.2,1.5,1,Afternoon
+Rib Reef,Site A,A-01,6m,39,28,9/12/2016,14:00:00,0,Resting,,0,5.1,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,30,9/12/2016,14:00:00,0,Resting,,0,5.1,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,14:00:00,0,Resting,,0,5.1,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,30,9/12/2016,14:00:00,0,Resting,,0,5.1,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,14:00:00,0,Resting,,0,5.1,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,14:00:00,0,Resting,,0,5.1,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,14:00:00,0,Resting,,0,5.1,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,30,9/12/2016,17:00:00,100,Moving,,0.1,1.2,1,Afternoon
+Rib Reef,Site A,A-01,6m,39,28,9/12/2016,17:00:00,0,Resting,,0.1,2,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,30,9/12/2016,17:00:00,0,Resting,,0.1,2,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,17:00:00,0,Resting,,0.1,2,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,30,9/12/2016,17:00:00,0,Resting,,0.1,2,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,17:00:00,0,Resting,,0.1,2,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,17:00:00,0,Resting,,0.1,2,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,17:00:00,0,Resting,,0.1,2,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,35,9/12/2016,17:00:00,50,Moving,,0.3,2.3,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,24,9/12/2016,17:00:00,50,Feeding,Acropora,1.2,-0.4,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,27,9/12/2016,17:00:00,100,Feeding,Acropora,12.1,1.5,1,Afternoon
+Rib Reef,Site A,A-01,6m,39,53,9/12/2016,17:00:00,0,Moving,,17,-3.5,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,40,9/12/2016,17:00:00,0,Resting,,17.5,-2.7,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,28,9/12/2016,17:00:00,50,Resting,,17.6,-2.2,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,40,9/12/2016,17:00:00,10,Resting,,17.6,-1.9,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,23,9/12/2016,17:00:00,0,Resting,,18,-2,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,28,9/12/2016,17:00:00,0,Resting,,17.6,1.5,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,17:00:00,0,Resting,,17.8,2,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,22,9/12/2016,17:00:00,30,Moving,,18.9,2,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,49,9/12/2016,17:00:00,60,Feeding,Acropora,7.4,-3,1,Afternoon
+Rib Reef,Site A,A-01,6m,39,27,9/12/2016,17:00:00,0,Resting,,13.8,0,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,26,9/12/2016,17:00:00,100,Feeding,Acropora,22.8,0.2,1,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,17:00:00,0,Resting,,26.3,0.8,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,35,9/12/2016,17:00:00,0,Resting,,34,0,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,41,9/12/2016,17:00:00,50,Feeding,Favites,35.7,1.5,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,39,9/12/2016,17:00:00,50,Moving,,37.2,0,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,44,9/12/2016,17:00:00,100,Feeding,Stylophora,33,-5,1,Afternoon
+Rib Reef,Site A,A-01,6m,39,33,9/12/2016,17:00:00,100,Resting,,32.4,-5,1,Afternoon
+Rib Reef,Site A,A-01,6m,39,31,9/12/2016,17:00:00,50,Feeding,Pocillopora,42,-2.5,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,17:00:00,0,Resting,,41.1,-2,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,24,9/12/2016,17:00:00,0,Resting,,0,0,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,17:00:00,0,Resting,,2.4,1,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,30,9/12/2016,17:00:00,100,Resting,,1.2,1,1,Afternoon
+Rib Reef,Site A,A-01,6m,39,36,9/12/2016,17:00:00,100,Feeding,Acropora,44.6,2,1,Afternoon
+Rib Reef,Site A,A-01,6m,39,28,9/12/2016,17:00:00,100,Moving,,36.3,2.8,1,Afternoon
+Rib Reef,Site A,A-01,6m,39,33,9/12/2016,17:00:00,0,Feeding,A. hyacinthus,49.8,-0.3,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,36,9/12/2016,17:00:00,80,Feeding,Acropora,49.8,-0.2,1,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,17:00:00,0,Resting,,49.5,0,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,17:00:00,0,Resting,,45,3,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,22,9/12/2016,17:00:00,100,Feeding,Favites,11.2,1.5,1,Afternoon
+Rib Reef,Site A,A-01,6m,39,28,9/12/2016,17:00:00,0,Resting,,0,5.1,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,30,9/12/2016,17:00:00,0,Resting,,0,5.1,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,17:00:00,0,Resting,,0,5.1,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,30,9/12/2016,17:00:00,0,Resting,,0,5.1,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,17:00:00,0,Resting,,0,5.1,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,17:00:00,0,Resting,,0,5.1,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,17:00:00,0,Resting,,0,5.1,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,20,9/12/2016,17:00:00,100,Feeding,Acropora,5,-3,1,Afternoon
+Rib Reef,Site A,A-01,6m,39,24,9/12/2016,17:00:00,100,Feeding,Acropora,5,-3,1,Afternoon
+Rib Reef,Site A,A-01,6m,39,56,9/12/2016,17:00:00,100,Feeding,Acropora,5,-3,1,Afternoon
+Rib Reef,Site A,A-01,6m,39,20,9/12/2016,17:00:00,100,Feeding,Acropora,20.9,1.5,1,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,17:00:00,30,Resting,,20.9,1.5,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,20,9/12/2016,17:00:00,50,Moving,,20.9,1.5,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,22,9/12/2016,17:00:00,20,Moving,,21.3,0,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,42,9/12/2016,17:00:00,0,Resting,,24,0,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,36,9/12/2016,17:00:00,0,Feeding,A. hyacinthus,29,1,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,36,9/12/2016,17:00:00,50,Feeding,Acropora,29,1.2,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,17:00:00,0,Resting,,17.6,-1.9,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,30,9/12/2016,17:00:00,0,Resting,,10.6,1,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,20,9/12/2016,17:00:00,0,Resting,,44.6,2,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,20,9/12/2016,17:00:00,0,Feeding,A. hyacinthus,40.3,1.8,0,Afternoon
+Rib Reef,Site A,A-01,6m,39,25,9/12/2016,17:00:00,0,Resting,,40.3,-1.8,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,25,10/12/2016,12:30:00,0,Resting,,1,0.6,0,Midday
+Rib Reef,Site A,A-02,3m,51,30,10/12/2016,12:30:00,0,Resting,,0,-1,0,Midday
+Rib Reef,Site A,A-02,3m,51,35,10/12/2016,12:30:00,0,Resting,,0,-1,0,Midday
+Rib Reef,Site A,A-02,3m,51,25,10/12/2016,12:30:00,0,Resting,,1,0,0,Midday
+Rib Reef,Site A,A-02,3m,51,20,10/12/2016,12:30:00,0,Resting,,1,0,0,Midday
+Rib Reef,Site A,A-02,3m,51,30,10/12/2016,12:30:00,100,Feeding,A. hyacinthus,4.8,-2,1,Midday
+Rib Reef,Site A,A-02,3m,51,25,10/12/2016,12:30:00,0,Resting,,8.5,1.5,0,Midday
+Rib Reef,Site A,A-02,3m,51,25,10/12/2016,12:30:00,0,Feeding,A. hyacinthus,11.2,2.4,0,Midday
+Rib Reef,Site A,A-02,3m,51,20,10/12/2016,12:30:00,0,Feeding,,14,1.5,0,Midday
+Rib Reef,Site A,A-02,3m,51,30,10/12/2016,12:30:00,0,Feeding,A. hyacinthus,14,1.3,0,Midday
+Rib Reef,Site A,A-02,3m,51,25,10/12/2016,12:30:00,0,Feeding,A. hyacinthus,13.6,0.5,0,Midday
+Rib Reef,Site A,A-02,3m,51,30,10/12/2016,12:30:00,100,Feeding,A. hyacinthus,14,-1,1,Midday
+Rib Reef,Site A,A-02,3m,51,30,10/12/2016,12:30:00,0,Resting,,17,-1.5,0,Midday
+Rib Reef,Site A,A-02,3m,51,30,10/12/2016,12:30:00,0,Resting,,17,-1.5,0,Midday
+Rib Reef,Site A,A-02,3m,51,30,10/12/2016,12:30:00,0,Resting,,17,-1.5,0,Midday
+Rib Reef,Site A,A-02,3m,51,30,10/12/2016,12:30:00,0,Resting,,20,-1.5,0,Midday
+Rib Reef,Site A,A-02,3m,51,30,10/12/2016,12:30:00,0,Resting,,34,1,0,Midday
+Rib Reef,Site A,A-02,3m,51,35,10/12/2016,12:30:00,0,Resting,,34,1,0,Midday
+Rib Reef,Site A,A-02,3m,51,25,10/12/2016,12:30:00,0,Resting,,47.4,0,0,Midday
+Rib Reef,Site A,A-02,3m,51,30,10/12/2016,12:30:00,0,Resting,,49.7,-1,0,Midday
+Rib Reef,Site A,A-02,3m,51,18,10/12/2016,12:30:00,100,Resting,,34.1,1.3,1,Midday
+Rib Reef,Site A,A-02,3m,51,25,9/12/2016,15:00:00,0,Resting,,1,0.6,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,15:00:00,0,Resting,,0,-1,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,35,9/12/2016,15:00:00,0,Resting,,0,-1,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,25,9/12/2016,15:00:00,0,Resting,,1,0,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,20,9/12/2016,15:00:00,0,Resting,,1,0,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,15:00:00,0,Feeding,,4.8,-2,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,25,9/12/2016,15:00:00,0,Resting,,8.5,1.5,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,25,9/12/2016,15:00:00,0,Resting,,11.2,1,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,20,9/12/2016,15:00:00,0,Feeding,,14,1.5,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,15:00:00,0,Resting,,14,0.6,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,25,9/12/2016,15:00:00,0,Resting,,13.6,0.5,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,15:00:00,0,Resting,,15,-1.8,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,15:00:00,0,Resting,,17,-1.5,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,15:00:00,0,Resting,,17,-1.5,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,15:00:00,0,Resting,,17,-1.5,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,15:00:00,0,Resting,,17.3,-2.5,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,15:00:00,0,Resting,,20,-1.5,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,15:00:00,0,Resting,,21.3,-1.2,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,15:00:00,0,Resting,,23,0,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,15:30:00,0,Resting,,34,1,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,35,9/12/2016,15:30:00,0,Resting,,32.2,1,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,25,9/12/2016,15:30:00,0,Resting,,34.8,1.5,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,25,9/12/2016,15:30:00,5,Feeding,,47.5,0,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,15:30:00,100,Moving,,49,-1,1,Afternoon
+Rib Reef,Site A,A-02,3m,51,25,9/12/2016,15:30:00,0,Resting,,55.6,0,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,20,9/12/2016,15:30:00,5,Feeding,,52,1,0,Afternoon
+Rib Reef,Site A,A-02,3m,51,25,9/12/2016,18:45:00,0,Resting,,1,0.6,0,Night
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,18:45:00,0,Resting,,0,-1,0,Night
+Rib Reef,Site A,A-02,3m,51,35,9/12/2016,18:45:00,0,Resting,,0,-1,0,Night
+Rib Reef,Site A,A-02,3m,51,25,9/12/2016,18:45:00,0,Resting,,1,0,0,Night
+Rib Reef,Site A,A-02,3m,51,20,9/12/2016,18:45:00,0,Resting,,1,0,0,Night
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,18:45:00,0,Feeding,,4.8,-2,0,Night
+Rib Reef,Site A,A-02,3m,51,25,9/12/2016,18:45:00,0,Resting,,8.5,1.5,0,Night
+Rib Reef,Site A,A-02,3m,51,25,9/12/2016,18:45:00,0,Resting,,11.2,1,0,Night
+Rib Reef,Site A,A-02,3m,51,20,9/12/2016,18:45:00,0,Feeding,,14,1.5,0,Night
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,18:45:00,0,Resting,,14,0.6,0,Night
+Rib Reef,Site A,A-02,3m,51,25,9/12/2016,18:45:00,0,Resting,,13.6,0.5,0,Night
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,18:45:00,0,Resting,,15,-1.8,0,Night
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,18:45:00,0,Resting,,17,-1.5,0,Night
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,18:45:00,0,Resting,,17,-1.5,0,Night
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,18:45:00,0,Resting,,17,-1.5,0,Night
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,18:45:00,50,Moving,,18.5,0,0,Night
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,18:45:00,0,Resting,,20,-1.5,0,Night
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,18:45:00,0,Resting,,21.3,0.5,0,Night
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,18:45:00,0,Resting,,23,0,0,Night
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,18:00:00,0,Resting,,34,1,0,Night
+Rib Reef,Site A,A-02,3m,51,35,9/12/2016,18:00:00,0,Moving,,34,1,0,Night
+Rib Reef,Site A,A-02,3m,51,25,9/12/2016,18:00:00,0,Resting,,34.8,1,0,Night
+Rib Reef,Site A,A-02,3m,51,25,9/12/2016,18:00:00,5,Feeding,,47.5,0,0,Night
+Rib Reef,Site A,A-02,3m,51,30,9/12/2016,18:00:00,0,Resting,,49,-1,0,Night
+Rib Reef,Site A,A-02,3m,51,25,9/12/2016,18:00:00,0,Resting,,55.6,0,0,Night
+Rib Reef,Site A,A-02,3m,51,20,9/12/2016,18:00:00,5,Feeding,,52,1,0,Night
+Rib Reef,Site B,B-01,6m,42,44,11/12/2016,6:30:00,0,Resting,,4.8,1.2,0,Morning
+Rib Reef,Site B,B-01,6m,42,33,11/12/2016,6:30:00,0,Resting,,7.2,0.5,0,Morning
+Rib Reef,Site B,B-01,6m,42,23,11/12/2016,6:30:00,0,Resting,,7.8,0.8,0,Morning
+Rib Reef,Site B,B-01,6m,42,33,11/12/2016,6:30:00,0,Resting,,7.8,0.8,0,Morning
+Rib Reef,Site B,B-01,6m,42,41,11/12/2016,6:30:00,0,Resting,,11.5,2,0,Morning
+Rib Reef,Site B,B-01,6m,42,46,11/12/2016,6:30:00,0,Resting,,12.8,0.4,0,Morning
+Rib Reef,Site B,B-01,6m,42,38,11/12/2016,6:30:00,0,Resting,,16.7,0,0,Morning
+Rib Reef,Site B,B-01,6m,42,47,11/12/2016,6:30:00,0,Resting,,16.7,0,0,Morning
+Rib Reef,Site B,B-01,6m,42,27,11/12/2016,6:30:00,0,Resting,,16.7,0,0,Morning
+Rib Reef,Site B,B-01,6m,42,36,11/12/2016,6:30:00,0,Resting,,16.7,0,0,Morning
+Rib Reef,Site B,B-01,6m,42,38,11/12/2016,6:30:00,0,Resting,,20.8,0,0,Morning
+Rib Reef,Site B,B-01,6m,42,27,11/12/2016,6:30:00,0,Resting,,20.8,0,0,Morning
+Rib Reef,Site B,B-01,6m,42,25,11/12/2016,6:30:00,0,Resting,,20.8,0,0,Morning
+Rib Reef,Site B,B-01,6m,42,25,11/12/2016,6:30:00,0,Resting,,20.8,0,0,Morning
+Rib Reef,Site B,B-01,6m,42,35,11/12/2016,6:30:00,0,Feeding,A. hyacinthus,21,1.2,0,Morning
+Rib Reef,Site B,B-01,6m,42,43,11/12/2016,6:30:00,100,Resting,,21.6,2,1,Morning
+Rib Reef,Site B,B-01,6m,42,25,11/12/2016,6:30:00,0,Feeding,A. hyacinthus,19.9,1.5,0,Morning
+Rib Reef,Site B,B-01,6m,42,27,11/12/2016,6:30:00,0,Feeding,A. hyacinthus,21,2,0,Morning
+Rib Reef,Site B,B-01,6m,42,40,11/12/2016,6:30:00,0,Resting,,5.4,1.2,0,Morning
+Rib Reef,Site B,B-01,6m,42,22,11/12/2016,6:30:00,0,Feeding,A. hyacinthus,3.3,1.8,0,Morning
+Rib Reef,Site B,B-01,6m,42,25,11/12/2016,6:30:00,0,Moving,,4.3,1.8,0,Morning
+Rib Reef,Site B,B-01,6m,42,22,11/12/2016,6:30:00,0,Moving,,4.3,1.8,0,Morning
+Rib Reef,Site B,B-01,6m,42,20,11/12/2016,6:30:00,0,Moving,,4.3,1.8,0,Morning
+Rib Reef,Site B,B-01,6m,42,20,11/12/2016,6:30:00,0,Moving,,4.3,1.8,0,Morning
+Rib Reef,Site B,B-01,6m,42,20,11/12/2016,6:30:00,0,Moving,,4.3,1.8,0,Morning
+Rib Reef,Site B,B-01,6m,42,20,11/12/2016,6:30:00,0,Moving,,15.8,1.2,0,Morning
+Rib Reef,Site B,B-01,6m,42,25,11/12/2016,6:30:00,0,Moving,,15.8,1.2,0,Morning
+Rib Reef,Site B,B-01,6m,42,44,11/12/2016,6:30:00,0,Resting,,24.9,0,0,Morning
+Rib Reef,Site B,B-01,6m,42,46,11/12/2016,6:30:00,0,Resting,,24.9,2.5,0,Morning
+Rib Reef,Site B,B-01,6m,42,47,11/12/2016,6:30:00,100,Resting,,29,1.3,1,Morning
+Rib Reef,Site B,B-01,6m,42,25,11/12/2016,6:30:00,0,Resting,,29,1.3,0,Morning
+Rib Reef,Site B,B-01,6m,42,43,11/12/2016,6:30:00,50,Resting,,33.8,0,0,Morning
+Rib Reef,Site B,B-01,6m,42,41,11/12/2016,6:30:00,0,Resting,,35.6,0,0,Morning
+Rib Reef,Site B,B-01,6m,42,35,11/12/2016,6:30:00,0,Resting,,35.6,0,0,Morning
+Rib Reef,Site B,B-01,6m,42,30,11/12/2016,6:30:00,0,Resting,,35.6,0,0,Morning
+Rib Reef,Site B,B-01,6m,42,40,11/12/2016,6:30:00,0,Resting,,35.6,0,0,Morning
+Rib Reef,Site B,B-01,6m,42,42,11/12/2016,6:30:00,0,Resting,,36,0,0,Morning
+Rib Reef,Site B,B-01,6m,42,40,11/12/2016,6:30:00,0,Resting,,36,0,0,Morning
+Rib Reef,Site B,B-01,6m,42,40,11/12/2016,6:30:00,0,Resting,,34.9,0,0,Morning
+Rib Reef,Site B,B-01,6m,42,42,11/12/2016,6:30:00,100,Resting,,38.8,1.2,1,Morning
+Rib Reef,Site B,B-01,6m,42,45,11/12/2016,6:30:00,100,Resting,,38.8,1.2,1,Morning
+Rib Reef,Site B,B-01,6m,42,35,11/12/2016,6:30:00,0,Resting,,38.2,1.8,0,Morning
+Rib Reef,Site B,B-01,6m,42,32,11/12/2016,6:30:00,0,Resting,,40.4,1.5,0,Morning
+Rib Reef,Site B,B-01,6m,42,25,11/12/2016,6:30:00,0,Resting,,40,1.5,0,Morning
+Rib Reef,Site B,B-01,6m,42,25,11/12/2016,6:30:00,0,Resting,,40,1.5,0,Morning
+Rib Reef,Site B,B-01,6m,42,45,11/12/2016,6:30:00,100,Resting,,43.5,-2,1,Morning
+Rib Reef,Site B,B-01,6m,42,30,11/12/2016,6:30:00,0,Resting,,47.8,-2,0,Morning
+Rib Reef,Site B,B-01,6m,42,42,11/12/2016,6:30:00,25,Feeding,Acropora,45.2,0,0,Morning
+Rib Reef,Site B,B-01,6m,42,30,11/12/2016,6:30:00,25,Resting,,45.6,0.4,0,Morning
+Rib Reef,Site B,B-01,6m,42,30,11/12/2016,6:30:00,0,Resting,,46.5,-1.8,0,Morning
+Rib Reef,Site B,B-01,6m,42,30,11/12/2016,6:30:00,0,Resting,,46.5,-1.8,0,Morning
+Rib Reef,Site B,B-01,6m,42,40,11/12/2016,6:30:00,100,Resting,,47.8,0,1,Morning
+Rib Reef,Site B,B-01,6m,42,40,11/12/2016,6:30:00,100,Resting,,47.8,0,1,Morning
+Rib Reef,Site B,B-01,6m,42,38,11/12/2016,6:30:00,0,Resting,,47.8,1,0,Morning
+Rib Reef,Site B,B-01,6m,42,44,10/12/2016,13:00:00,0,Resting,,3.3,0.8,0,Midday
+Rib Reef,Site B,B-01,6m,42,33,10/12/2016,13:00:00,0,Resting,,7.2,0.8,0,Midday
+Rib Reef,Site B,B-01,6m,42,44,10/12/2016,13:00:00,100,Resting,,7.5,-1.2,1,Midday
+Rib Reef,Site B,B-01,6m,42,42,10/12/2016,13:00:00,75,Resting,,7.5,-1.2,1,Midday
+Rib Reef,Site B,B-01,6m,42,23,10/12/2016,13:00:00,0,Resting,,7.3,0.8,0,Midday
+Rib Reef,Site B,B-01,6m,42,33,10/12/2016,13:00:00,0,Resting,,7.5,0.8,0,Midday
+Rib Reef,Site B,B-01,6m,42,34,10/12/2016,13:00:00,0,Resting,,11.6,0.8,0,Midday
+Rib Reef,Site B,B-01,6m,42,41,10/12/2016,13:00:00,100,Feeding,A. hyacinthus,12,2,1,Midday
+Rib Reef,Site B,B-01,6m,42,35,10/12/2016,13:00:00,0,Resting,,11.1,1.5,0,Midday
+Rib Reef,Site B,B-01,6m,42,46,10/12/2016,13:00:00,20,Feeding,Acropora,12.8,2,0,Midday
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,13:00:00,0,Resting,,12.8,1.9,0,Midday
+Rib Reef,Site B,B-01,6m,42,52,10/12/2016,13:00:00,0,Resting,,13.5,0.5,0,Midday
+Rib Reef,Site B,B-01,6m,42,38,10/12/2016,13:00:00,0,Feeding,A. hyacinthus,16.7,0,0,Midday
+Rib Reef,Site B,B-01,6m,42,47,10/12/2016,13:00:00,100,Resting,,16.7,0,1,Midday
+Rib Reef,Site B,B-01,6m,42,27,10/12/2016,13:00:00,0,Resting,,16.7,0,0,Midday
+Rib Reef,Site B,B-01,6m,42,36,10/12/2016,13:00:00,0,Resting,,16.7,0,0,Midday
+Rib Reef,Site B,B-01,6m,42,38,10/12/2016,13:00:00,50,Resting,,20.8,0,0,Midday
+Rib Reef,Site B,B-01,6m,42,27,10/12/2016,13:00:00,0,Resting,,20.8,0,0,Midday
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,13:00:00,0,Resting,,20.8,0,0,Midday
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,13:00:00,0,Resting,,20.8,0,0,Midday
+Rib Reef,Site B,B-01,6m,42,35,10/12/2016,13:00:00,0,Resting,,21,0.8,0,Midday
+Rib Reef,Site B,B-01,6m,42,43,10/12/2016,13:00:00,100,Feeding,A. hyacinthus,21.2,1.2,1,Midday
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,13:00:00,0,Feeding,A. hyacinthus,19.9,1.5,0,Midday
+Rib Reef,Site B,B-01,6m,42,27,10/12/2016,13:00:00,0,Resting,,20.5,1.5,0,Midday
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,15:30:00,0,Resting,,20.5,1.5,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,15:30:00,0,Resting,,20.2,1.6,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,15:30:00,0,Resting,,22.4,0.8,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,44,10/12/2016,15:30:00,100,Feeding,A. hyacinthus,24.6,1.1,1,Afternoon
+Rib Reef,Site B,B-01,6m,42,46,10/12/2016,15:30:00,100,Feeding,A. hyacinthus,24.6,1.1,1,Afternoon
+Rib Reef,Site B,B-01,6m,42,35,10/12/2016,15:30:00,100,Feeding,A. hyacinthus,24.6,1.1,1,Afternoon
+Rib Reef,Site B,B-01,6m,42,28,10/12/2016,15:30:00,100,Feeding,Acropora,27.5,1,1,Afternoon
+Rib Reef,Site B,B-01,6m,42,47,10/12/2016,15:30:00,0,Feeding,A. hyacinthus,31,1,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,15:30:00,100,Feeding,Acropora,31,1,1,Afternoon
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,15:30:00,0,Resting,,31,1.1,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,30,10/12/2016,15:30:00,0,Resting,,31,1.2,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,43,10/12/2016,15:30:00,20,Resting,,33.5,0.4,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,41,10/12/2016,15:30:00,0,Feeding,A. hyacinthus,35.3,0,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,35,10/12/2016,15:30:00,0,Resting,,35.3,0,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,30,10/12/2016,15:30:00,0,Resting,,35.3,0,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,15:30:00,0,Resting,,36.6,0,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,42,10/12/2016,15:30:00,50,Resting,,36.6,0,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,15:30:00,0,Resting,,36.6,0,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,15:30:00,20,Resting,,35.7,-1.2,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,15:30:00,0,Resting,,38.2,-0.8,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,42,10/12/2016,15:30:00,100,Feeding,A. hyacinthus,38,1.2,1,Afternoon
+Rib Reef,Site B,B-01,6m,42,45,10/12/2016,15:30:00,20,Resting,,38,1.2,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,35,10/12/2016,15:30:00,0,Resting,,38,1.2,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,32,10/12/2016,15:30:00,25,Resting,,40.4,1.5,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,15:30:00,0,Resting,,40,1.5,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,15:30:00,25,Resting,,40,1.5,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,15:30:00,0,Resting,,39.4,0.4,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,20,10/12/2016,15:30:00,0,Resting,,39.4,0.4,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,20,10/12/2016,15:30:00,0,Resting,,39.4,0.4,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,47,10/12/2016,15:30:00,100,Feeding,A. hyacinthus,43.2,1,1,Afternoon
+Rib Reef,Site B,B-01,6m,42,38,10/12/2016,15:30:00,100,Resting,,43.2,1.3,1,Afternoon
+Rib Reef,Site B,B-01,6m,42,35,10/12/2016,15:30:00,50,Resting,,43.2,1.5,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,27,10/12/2016,15:30:00,50,Resting,,43.2,1.6,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,15:30:00,25,Resting,,47.8,0,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,45,10/12/2016,15:30:00,100,Feeding,A. hyacinthus,47.8,-2,1,Afternoon
+Rib Reef,Site B,B-01,6m,42,30,10/12/2016,15:30:00,0,Resting,,47.8,-2,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,42,10/12/2016,15:30:00,25,Feeding,Acropora,45.2,0,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,30,10/12/2016,15:30:00,25,Resting,,45.6,0.4,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,30,10/12/2016,15:30:00,0,Resting,,46.5,-1.8,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,30,10/12/2016,15:30:00,0,Resting,,46.5,-1.8,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,15:30:00,0,Resting,,46.5,-1.8,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,15:30:00,0,Resting,,46.5,-1.8,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,15:30:00,0,Resting,,46.5,-1.8,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,15:30:00,0,Resting,,46.5,-1.8,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,15:30:00,0,Resting,,46.5,-1.8,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,38,10/12/2016,15:30:00,0,Resting,,44.8,0.4,0,Afternoon
+Rib Reef,Site B,B-01,6m,42,44,10/12/2016,19:00:00,0,Moving,,3.3,1.5,0,Night
+Rib Reef,Site B,B-01,6m,42,33,10/12/2016,19:00:00,0,Resting,,7.2,0.8,0,Night
+Rib Reef,Site B,B-01,6m,42,44,10/12/2016,19:00:00,100,Resting,,7.5,-1.2,1,Night
+Rib Reef,Site B,B-01,6m,42,23,10/12/2016,19:00:00,0,Resting,,7.3,0.8,0,Night
+Rib Reef,Site B,B-01,6m,42,33,10/12/2016,19:00:00,0,Resting,,7.5,0.8,0,Night
+Rib Reef,Site B,B-01,6m,42,34,10/12/2016,19:00:00,100,Moving,,11.6,1.2,1,Night
+Rib Reef,Site B,B-01,6m,42,41,10/12/2016,19:00:00,100,Feeding,Acropora,12.8,0.5,1,Night
+Rib Reef,Site B,B-01,6m,42,46,10/12/2016,19:00:00,100,Feeding,Acropora,12.7,0,1,Night
+Rib Reef,Site B,B-01,6m,42,38,10/12/2016,19:00:00,100,Moving,,16.6,0.5,1,Night
+Rib Reef,Site B,B-01,6m,42,47,10/12/2016,19:00:00,0,Resting,,16.6,0.4,0,Night
+Rib Reef,Site B,B-01,6m,42,27,10/12/2016,19:00:00,0,Resting,,16.7,0,0,Night
+Rib Reef,Site B,B-01,6m,42,36,10/12/2016,19:00:00,0,Resting,,16.7,0,0,Night
+Rib Reef,Site B,B-01,6m,42,38,10/12/2016,19:00:00,50,Resting,,20.8,0,0,Night
+Rib Reef,Site B,B-01,6m,42,27,10/12/2016,19:00:00,0,Resting,,20.8,0,0,Night
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,19:00:00,0,Resting,,20.8,0,0,Night
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,19:00:00,0,Resting,,20.8,0,0,Night
+Rib Reef,Site B,B-01,6m,42,35,10/12/2016,19:00:00,0,Feeding,A. hyacinthus,21,1.2,0,Night
+Rib Reef,Site B,B-01,6m,42,43,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,21.2,1.2,1,Night
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,19:00:00,0,Feeding,A. hyacinthus,19.9,1.5,0,Night
+Rib Reef,Site B,B-01,6m,42,27,10/12/2016,19:00:00,0,Feeding,A. hyacinthus,21,2,0,Night
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,24.3,1.3,1,Night
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,24.3,1.3,1,Night
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,24.3,1.3,1,Night
+Rib Reef,Site B,B-01,6m,42,44,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,25,2.3,1,Night
+Rib Reef,Site B,B-01,6m,42,46,10/12/2016,19:00:00,0,Moving,,25,2.3,0,Night
+Rib Reef,Site B,B-01,6m,42,35,10/12/2016,19:00:00,0,Moving,,25,2.1,0,Night
+Rib Reef,Site B,B-01,6m,42,28,10/12/2016,19:00:00,100,Feeding,Acropora,27.5,1,1,Night
+Rib Reef,Site B,B-01,6m,42,47,10/12/2016,19:00:00,0,Feeding,A. hyacinthus,27.2,1.8,0,Night
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,31,1.8,1,Night
+Rib Reef,Site B,B-01,6m,42,30,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,31,1.8,1,Night
+Rib Reef,Site B,B-01,6m,42,43,10/12/2016,19:00:00,20,Resting,,33.5,0.4,0,Night
+Rib Reef,Site B,B-01,6m,42,41,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,35,0,1,Night
+Rib Reef,Site B,B-01,6m,42,35,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,35,0,1,Night
+Rib Reef,Site B,B-01,6m,42,30,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,35,0,1,Night
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,35,0,1,Night
+Rib Reef,Site B,B-01,6m,42,42,10/12/2016,19:00:00,0,Moving,,38,-0.8,0,Night
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,37.8,1.2,1,Night
+Rib Reef,Site B,B-01,6m,42,42,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,38,1.2,1,Night
+Rib Reef,Site B,B-01,6m,42,45,10/12/2016,19:00:00,20,Resting,,38,1.2,0,Night
+Rib Reef,Site B,B-01,6m,42,35,10/12/2016,19:00:00,0,Resting,,38,1.2,0,Night
+Rib Reef,Site B,B-01,6m,42,24,10/12/2016,19:00:00,100,Feeding,Acropora,24.3,1.3,1,Night
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,39.1,1,1,Night
+Rib Reef,Site B,B-01,6m,42,32,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,40.8,1.8,1,Night
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,40.8,1.8,1,Night
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,40.8,1.8,1,Night
+Rib Reef,Site B,B-01,6m,42,20,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,40,0.4,1,Night
+Rib Reef,Site B,B-01,6m,42,20,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,40,0.4,1,Night
+Rib Reef,Site B,B-01,6m,42,38,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,43.6,1.8,1,Night
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,43.5,2,1,Night
+Rib Reef,Site B,B-01,6m,42,45,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,46.2,0,1,Night
+Rib Reef,Site B,B-01,6m,42,42,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,45.3,0,1,Night
+Rib Reef,Site B,B-01,6m,42,30,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,47.3,-1.8,1,Night
+Rib Reef,Site B,B-01,6m,42,30,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,47.3,-1.5,1,Night
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,47.3,-1.5,1,Night
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,47.3,-1.5,1,Night
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,47.3,-1.5,1,Night
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,47.3,-1.5,1,Night
+Rib Reef,Site B,B-01,6m,42,40,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,47.3,-1.5,1,Night
+Rib Reef,Site B,B-01,6m,42,38,10/12/2016,19:00:00,100,Feeding,A. hyacinthus,45,1,1,Night
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,19:00:00,50,Feeding,Acropora,50,0,0,Night
+Rib Reef,Site B,B-01,6m,42,25,10/12/2016,19:00:00,50,Feeding,Acropora,50,0,0,Night
+Rib Reef,Site B,B-02,3m,74,32,11/12/2016,7:00:00,50,Resting,,1,-0.4,0,Morning
+Rib Reef,Site B,B-02,3m,74,33,11/12/2016,7:00:00,15,Resting,,2.3,0.8,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Moving,,12.5,1.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,12.5,1.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,25,11/12/2016,7:00:00,0,Resting,,12.5,1.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,41,11/12/2016,7:00:00,100,Resting,,15.5,-1,1,Morning
+Rib Reef,Site B,B-02,3m,74,26,11/12/2016,7:00:00,0,Resting,,17.2,1,0,Morning
+Rib Reef,Site B,B-02,3m,74,26,11/12/2016,7:00:00,0,Resting,,17.2,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,18,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,18.6,-0.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,18.7,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,19.4,0.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,35,11/12/2016,7:00:00,0,Resting,,18.7,0.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,35,11/12/2016,7:00:00,0,Resting,,18.7,0.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,35,11/12/2016,7:00:00,0,Resting,,18.7,0.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,17.2,1.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,35,11/12/2016,7:00:00,0,Resting,,23,2,0,Morning
+Rib Reef,Site B,B-02,3m,74,35,11/12/2016,7:00:00,0,Resting,,23,2,0,Morning
+Rib Reef,Site B,B-02,3m,74,40,11/12/2016,7:00:00,0,Resting,,23,2,0,Morning
+Rib Reef,Site B,B-02,3m,74,38,11/12/2016,7:00:00,0,Resting,,23,2.1,0,Morning
+Rib Reef,Site B,B-02,3m,74,33,11/12/2016,7:00:00,0,Resting,,23,2,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,1,Resting,,27,1.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,32,11/12/2016,7:00:00,0,Resting,,26.8,1.2,0,Morning
+Rib Reef,Site B,B-02,3m,74,38,11/12/2016,7:00:00,0,Resting,,26.8,1.2,0,Morning
+Rib Reef,Site B,B-02,3m,74,32,11/12/2016,7:00:00,0,Resting,,26.8,1.2,0,Morning
+Rib Reef,Site B,B-02,3m,74,35,11/12/2016,7:00:00,0,Resting,,26.8,1.2,0,Morning
+Rib Reef,Site B,B-02,3m,74,38,11/12/2016,7:00:00,50,Feeding,Acropora,27.4,1.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,27.4,1.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,25,11/12/2016,7:00:00,0,Resting,,27.4,1.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,27.4,1.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,31,2,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,37.2,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,37.2,-1,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,37.2,-1,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,37.2,-1,0,Morning
+Rib Reef,Site B,B-02,3m,74,35,11/12/2016,7:00:00,0,Resting,,48,-2,0,Morning
+Rib Reef,Site B,B-02,3m,74,38,11/12/2016,7:00:00,0,Resting,,49.5,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,33,11/12/2016,7:00:00,0,Resting,,49.5,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,40,11/12/2016,7:00:00,0,Resting,,49.5,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,49.5,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,20,11/12/2016,7:00:00,0,Resting,,49.5,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,49.5,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,49.5,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,49.5,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,49.5,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,49.5,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,49.5,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,49.5,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,40,11/12/2016,7:00:00,0,Resting,,49.5,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,49.5,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,11/12/2016,7:00:00,0,Resting,,49.5,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,40,11/12/2016,7:00:00,0,Resting,,49.5,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,32,10/12/2016,8:00:00,40,Resting,,1,-0.4,0,Morning
+Rib Reef,Site B,B-02,3m,74,33,10/12/2016,8:00:00,15,Resting,,2.3,0.8,0,Morning
+Rib Reef,Site B,B-02,3m,74,26,10/12/2016,8:00:00,5,Resting,,3.8,2,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,10,Resting,,11.4,-1.2,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Moving,,12.5,1.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,12.5,1.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,25,10/12/2016,8:00:00,0,Resting,,12.5,1.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,35,10/12/2016,8:00:00,0,Resting,,15.3,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,41,10/12/2016,8:00:00,0,Resting,,15.5,-1,0,Morning
+Rib Reef,Site B,B-02,3m,74,28,10/12/2016,8:00:00,0,Resting,,15.5,-2,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,20,Resting,,17.2,1,0,Morning
+Rib Reef,Site B,B-02,3m,74,26,10/12/2016,8:00:00,0,Resting,,17.2,1,0,Morning
+Rib Reef,Site B,B-02,3m,74,26,10/12/2016,8:00:00,0,Resting,,17.2,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,18,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,18.6,-0.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,18.7,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,19.4,0.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,20,0.8,0,Morning
+Rib Reef,Site B,B-02,3m,74,35,10/12/2016,8:00:00,0,Resting,,18.7,0.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,35,10/12/2016,8:00:00,0,Resting,,18.7,0.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,35,10/12/2016,8:00:00,0,Resting,,18.7,0.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,17.2,1,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,17.2,1.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,17.2,1.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,17.2,1.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,35,10/12/2016,8:00:00,100,Feeding,Acropora,23,2,1,Morning
+Rib Reef,Site B,B-02,3m,74,35,10/12/2016,8:00:00,0,Resting,,23,2,0,Morning
+Rib Reef,Site B,B-02,3m,74,40,10/12/2016,8:00:00,0,Resting,,23,2,0,Morning
+Rib Reef,Site B,B-02,3m,74,38,10/12/2016,8:00:00,0,Resting,,23,2.1,0,Morning
+Rib Reef,Site B,B-02,3m,74,32,10/12/2016,8:00:00,0,Resting,,23,2.1,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,23,2,0,Morning
+Rib Reef,Site B,B-02,3m,74,33,10/12/2016,8:00:00,0,Resting,,23,2,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,10,Resting,,26.5,2,0,Morning
+Rib Reef,Site B,B-02,3m,74,32,10/12/2016,8:00:00,0,Resting,,26.8,1.2,0,Morning
+Rib Reef,Site B,B-02,3m,74,38,10/12/2016,8:00:00,0,Resting,,26.8,1.2,0,Morning
+Rib Reef,Site B,B-02,3m,74,32,10/12/2016,8:00:00,0,Resting,,26.8,1.2,0,Morning
+Rib Reef,Site B,B-02,3m,74,35,10/12/2016,8:00:00,0,Resting,,26.8,1.2,0,Morning
+Rib Reef,Site B,B-02,3m,74,35,10/12/2016,8:00:00,0,Resting,,27.4,1.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,38,10/12/2016,8:00:00,50,Feeding,Acropora,27.4,1.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,27.4,1.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,25,10/12/2016,8:00:00,0,Resting,,27.4,1.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,27.4,1.5,0,Morning
+Rib Reef,Site B,B-02,3m,74,45,10/12/2016,8:00:00,50,Feeding,A. hyacinthus,31.1,0.8,0,Morning
+Rib Reef,Site B,B-02,3m,74,40,10/12/2016,8:00:00,0,Resting,,31.1,1,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Feeding,A. hyacinthus,31.1,1,0,Morning
+Rib Reef,Site B,B-02,3m,74,28,10/12/2016,8:00:00,0,Feeding,A. hyacinthus,31.1,1,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,31.1,1,0,Morning
+Rib Reef,Site B,B-02,3m,74,35,10/12/2016,8:00:00,50,Feeding,A. hyacinthus,32.3,1,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,37.2,0,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,37.2,-1,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,37.2,-1,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,37.2,-1,0,Morning
+Rib Reef,Site B,B-02,3m,74,20,10/12/2016,8:00:00,0,Resting,,45.6,2,0,Morning
+Rib Reef,Site B,B-02,3m,74,35,10/12/2016,8:00:00,0,Resting,,46.6,0.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,38,10/12/2016,8:00:00,0,Feeding,A. hyacinthus,47.4,0.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,33,10/12/2016,8:00:00,60,Resting,,47.4,0.3,1,Morning
+Rib Reef,Site B,B-02,3m,74,40,10/12/2016,8:00:00,60,Resting,,47.4,0.3,1,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,50,Resting,,47.4,0.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,20,10/12/2016,8:00:00,0,Resting,,47.4,0.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,47.4,0.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,47.4,0.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,47.4,0.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,47.4,0.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,47.4,0.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,47.4,0.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,47.4,0.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,40,10/12/2016,8:00:00,100,Resting,,47.3,-1.2,1,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,47.3,-1,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,48.6,-1,0,Morning
+Rib Reef,Site B,B-02,3m,74,40,10/12/2016,8:00:00,100,Moving,,48.5,-1.2,1,Morning
+Rib Reef,Site B,B-02,3m,74,35,10/12/2016,8:00:00,40,Resting,,49.5,0.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,8:00:00,0,Resting,,44.1,0.3,0,Morning
+Rib Reef,Site B,B-02,3m,74,32,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,0.5,-0.3,1,Night
+Rib Reef,Site B,B-02,3m,74,33,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,2.3,0.5,1,Night
+Rib Reef,Site B,B-02,3m,74,26,10/12/2016,20:00:00,0,Resting,,3.8,2.2,0,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,11.6,-2,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,13,2,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,12.7,1,1,Night
+Rib Reef,Site B,B-02,3m,74,25,10/12/2016,20:00:00,0,Moving,,12.7,1.4,0,Night
+Rib Reef,Site B,B-02,3m,74,35,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,15.4,0.4,1,Night
+Rib Reef,Site B,B-02,3m,74,41,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,15.5,-3,1,Night
+Rib Reef,Site B,B-02,3m,74,26,10/12/2016,20:00:00,0,Resting,,17.2,0,0,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,0,Resting,,18,0,0,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,18.6,-0.5,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,0,Resting,,18.7,0,0,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,0,Resting,,19.4,0.3,0,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,0,Resting,,20,0.8,0,Night
+Rib Reef,Site B,B-02,3m,74,25,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,17.2,1.2,1,Night
+Rib Reef,Site B,B-02,3m,74,25,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,17.2,1.2,1,Night
+Rib Reef,Site B,B-02,3m,74,25,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,17.2,1.2,1,Night
+Rib Reef,Site B,B-02,3m,74,25,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,17.2,1.2,1,Night
+Rib Reef,Site B,B-02,3m,74,25,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,17.2,1.2,1,Night
+Rib Reef,Site B,B-02,3m,74,35,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,22.7,2.1,1,Night
+Rib Reef,Site B,B-02,3m,74,40,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,22.7,2.1,1,Night
+Rib Reef,Site B,B-02,3m,74,38,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,22.7,2.1,1,Night
+Rib Reef,Site B,B-02,3m,74,32,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,22.7,2.1,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,22.7,2.1,1,Night
+Rib Reef,Site B,B-02,3m,74,33,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,22.7,2.1,1,Night
+Rib Reef,Site B,B-02,3m,74,32,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,27,2,1,Night
+Rib Reef,Site B,B-02,3m,74,38,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,27,2,1,Night
+Rib Reef,Site B,B-02,3m,74,32,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,27,2,1,Night
+Rib Reef,Site B,B-02,3m,74,35,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,27,2,1,Night
+Rib Reef,Site B,B-02,3m,74,45,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,31,1.8,1,Night
+Rib Reef,Site B,B-02,3m,74,40,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,31,1.8,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,31,1.8,1,Night
+Rib Reef,Site B,B-02,3m,74,28,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,31,1.8,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,31,1.8,1,Night
+Rib Reef,Site B,B-02,3m,74,40,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,22.7,2.1,1,Night
+Rib Reef,Site B,B-02,3m,74,35,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,22.7,2.1,1,Night
+Rib Reef,Site B,B-02,3m,74,25,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,22.7,2.1,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,36.5,-1.8,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,36.5,-1.8,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,36.5,-1.8,1,Night
+Rib Reef,Site B,B-02,3m,74,38,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,49.5,0,1,Night
+Rib Reef,Site B,B-02,3m,74,33,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,49.5,0,1,Night
+Rib Reef,Site B,B-02,3m,74,40,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,49.5,0,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,49.5,0,1,Night
+Rib Reef,Site B,B-02,3m,74,20,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,49.5,0,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,49.5,0,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,49.5,0,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,49.5,0,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,49.5,0,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,49.5,0,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,49.5,0,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,49.5,0,1,Night
+Rib Reef,Site B,B-02,3m,74,40,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,49.5,0,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,49.5,0,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,49.5,0,1,Night
+Rib Reef,Site B,B-02,3m,74,40,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,49.5,0,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,36.5,-1.8,1,Night
+Rib Reef,Site B,B-02,3m,74,25,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,36.5,-1.8,1,Night
+Rib Reef,Site B,B-02,3m,74,30,10/12/2016,20:00:00,100,Feeding,A. hyacinthus,36.5,-1.8,1,Night
+Rib Reef,Site C,C-01,6m,34,21,5/02/2017,10:00:00,0,Resting,,5.2,0,0,Morning
+Rib Reef,Site C,C-01,6m,34,27,5/02/2017,10:00:00,100,Resting,,39.1,-0.8,1,Morning
+Rib Reef,Site C,C-01,6m,34,30,5/02/2017,10:00:00,100,Resting,,26,1.7,1,Morning
+Rib Reef,Site C,C-01,6m,34,30,5/02/2017,10:00:00,100,Resting,,26,6.1,1,Morning
+Rib Reef,Site C,C-01,6m,34,30,5/02/2017,10:00:00,0,Resting,,26,2.8,0,Morning
+Rib Reef,Site C,C-01,6m,34,42,5/02/2017,10:00:00,100,Resting,,33.2,-3,1,Morning
+Rib Reef,Site C,C-01,6m,34,35,5/02/2017,10:00:00,50,Resting,,39,-1,0,Morning
+Rib Reef,Site C,C-01,6m,34,35,5/02/2017,10:00:00,100,Moving,,1.9,-2.8,1,Morning
+Rib Reef,Site C,C-01,6m,34,25,5/02/2017,10:00:00,100,Resting,,16,-1.5,1,Morning
+Rib Reef,Site C,C-01,6m,34,28,5/02/2017,10:00:00,100,Resting,,37,-1.2,1,Morning
+Rib Reef,Site C,C-01,6m,34,37,4/02/2017,13:00:00,10,Resting,,1.3,-1,0,Midday
+Rib Reef,Site C,C-01,6m,34,21,4/02/2017,13:00:00,5,Resting,,5.6,-2,0,Midday
+Rib Reef,Site C,C-01,6m,34,39,4/02/2017,13:00:00,5,Resting,,14.1,-2,0,Midday
+Rib Reef,Site C,C-01,6m,34,38,4/02/2017,13:00:00,100,Moving,,21.4,-5,1,Midday
+Rib Reef,Site C,C-01,6m,34,28,4/02/2017,13:00:00,50,Resting,,23,-1,0,Midday
+Rib Reef,Site C,C-01,6m,34,27,4/02/2017,13:00:00,5,Resting,,39.1,-1,0,Midday
+Rib Reef,Site C,C-01,6m,34,30,4/02/2017,13:00:00,100,Feeding,A. nasuta,26,3,1,Midday
+Rib Reef,Site C,C-01,6m,34,30,4/02/2017,13:00:00,10,Feeding,A. nasuta,26,3,0,Midday
+Rib Reef,Site C,C-01,6m,34,30,4/02/2017,13:00:00,0,Feeding,A. nasuta,26,3,0,Midday
+Rib Reef,Site C,C-01,6m,34,24,4/02/2017,13:00:00,5,Resting,,17.4,0,0,Midday
+Rib Reef,Site C,C-01,6m,34,37,4/02/2017,19:00:00,10,Resting,,1.3,-1,0,Night
+Rib Reef,Site C,C-01,6m,34,21,4/02/2017,19:00:00,5,Resting,,5.6,-2,0,Night
+Rib Reef,Site C,C-01,6m,34,39,4/02/2017,19:00:00,5,Resting,,14.1,-2,0,Night
+Rib Reef,Site C,C-01,6m,34,38,4/02/2017,19:00:00,100,Moving,,19,-6,1,Night
+Rib Reef,Site C,C-01,6m,34,27,4/02/2017,19:00:00,5,Resting,,39.1,-1,0,Night
+Rib Reef,Site C,C-01,6m,34,30,4/02/2017,19:00:00,100,Resting,,26,3.5,1,Night
+Rib Reef,Site C,C-01,6m,34,30,4/02/2017,19:00:00,100,Resting,,26,2,1,Night
+Rib Reef,Site C,C-01,6m,34,30,4/02/2017,19:00:00,0,Feeding,A. nasuta,26,3,0,Night
+Rib Reef,Site C,C-01,6m,34,24,4/02/2017,19:00:00,100,Moving,,16.5,-1,1,Night
+Rib Reef,Site C,C-01,6m,34,22,4/02/2017,19:00:00,0,Moving,,3.4,1.6,0,Night
+Rib Reef,Site C,C-01,6m,34,24,4/02/2017,19:00:00,100,Moving,,4.5,0,1,Night
+Rib Reef,Site C,C-01,6m,34,33,4/02/2017,19:00:00,100,Moving,,5.3,-3.2,1,Night
+Rib Reef,Site C,C-01,6m,34,30,4/02/2017,19:00:00,2,Resting,,4.6,-2.5,0,Night
+Rib Reef,Site C,C-01,6m,34,25,4/02/2017,19:00:00,0,Moving,,9.7,2,0,Night
+Rib Reef,Site C,C-01,6m,34,34,4/02/2017,19:00:00,100,Moving,,19.6,3,1,Night
+Rib Reef,Site C,C-02,6m,44,35,5/02/2017,10:00:00,10,Resting,,44,-1.3,0,Morning
+Rib Reef,Site C,C-02,6m,44,27,5/02/2017,10:00:00,10,Resting,,44,-1.3,0,Morning
+Rib Reef,Site C,C-02,6m,44,30,5/02/2017,10:00:00,5,Resting,,44,-1.3,0,Morning
+Rib Reef,Site C,C-02,6m,44,13,4/02/2017,13:00:00,15,Resting,,21.7,-2.5,0,Midday
+Rib Reef,Site C,C-02,6m,44,35,4/02/2017,13:00:00,0,Resting,,43.3,2,0,Midday
+Rib Reef,Site C,C-02,6m,44,25,4/02/2017,13:00:00,0,Resting,,49.8,1,0,Midday
+Rib Reef,Site C,C-02,6m,44,25,4/02/2017,13:00:00,0,Resting,,47,-5,0,Midday
+Rib Reef,Site C,C-02,6m,44,27,4/02/2017,13:00:00,0,Resting,,42.1,0.6,0,Midday
+Rib Reef,Site C,C-02,6m,44,13,4/02/2017,19:00:00,50,Feeding,A. muricata,22,-3,0,Night
+Rib Reef,Site C,C-02,6m,44,35,4/02/2017,19:00:00,100,Moving,,43.2,2.5,1,Night
+Rib Reef,Site C,C-02,6m,44,25,4/02/2017,19:00:00,0,Resting,,49.8,1,0,Night
+Rib Reef,Site C,C-02,6m,44,25,4/02/2017,19:00:00,0,Resting,,47,-5,0,Night
+Rib Reef,Site C,C-02,6m,44,27,4/02/2017,19:00:00,100,Moving,,41,-1,1,Night
+Rib Reef,Site C,C-02,6m,44,30,4/02/2017,19:00:00,10,Resting,,42.5,-2,0,Night
+Rib Reef,Site C,C-03,3m,55,28,5/02/2017,10:00:00,100,Resting,,9.8,-2.5,1,Morning
+Rib Reef,Site C,C-04,3m,48,33,5/02/2017,10:00:00,60,Resting,,36,2,1,Morning
+Rib Reef,Site C,C-04,3m,48,28,5/02/2017,10:00:00,80,Feeding,Encrusting Montipora,50,1,1,Morning
+Rib Reef,Site C,C-04,3m,48,33,4/02/2017,13:00:00,100,Feeding,A. hyacinthus,36.3,2.1,1,Midday
+Rib Reef,Site C,C-04,3m,48,33,4/02/2017,19:00:00,60,Resting,,36,2,1,Night
+Rib Reef,Site C,C-04,3m,48,25,4/02/2017,19:00:00,2,Feeding,A. gemmifera,29,1,0,Night
+Rib Reef,Site D,D-01,3m,23,36,12/05/2017,9:00:00,50,Resting,,0,-1.5,0,Morning
+Rib Reef,Site D,D-01,3m,23,42,12/05/2017,9:00:00,70,Resting,,0,-1.2,1,Morning
+Rib Reef,Site D,D-01,3m,23,30,12/05/2017,9:00:00,0,Resting,,25.1,-0.5,0,Morning
+Rib Reef,Site D,D-01,3m,23,35,12/05/2017,9:00:00,5,Resting,,29.3,-0.3,0,Morning
+Rib Reef,Site D,D-01,3m,23,42,12/05/2017,9:00:00,100,Feeding,A. nasuta,32,0.5,1,Morning
+Rib Reef,Site D,D-01,3m,23,28,12/05/2017,9:00:00,0,Resting,,28.8,0.4,0,Morning
+Rib Reef,Site D,D-01,3m,23,28,12/05/2017,9:00:00,0,Resting,,47.2,-1.2,0,Morning
+Rib Reef,Site D,D-01,3m,23,30,12/05/2017,9:00:00,100,Resting,,6.2,-3.2,1,Morning
+Rib Reef,Site D,D-01,3m,23,30,12/05/2017,9:00:00,100,Feeding,,5.8,-1.5,1,Morning
+Rib Reef,Site D,D-01,3m,23,25,12/05/2017,9:00:00,50,Resting,,2.7,-2,0,Morning
+Rib Reef,Site D,D-01,3m,23,35,10/05/2017,10:00:00,10,Resting,,0.5,-0.5,0,Morning
+Rib Reef,Site D,D-01,3m,23,35,10/05/2017,10:00:00,20,Resting,,2.4,-0.4,0,Morning
+Rib Reef,Site D,D-01,3m,23,36,10/05/2017,10:00:00,0,Resting,,2.7,0,0,Morning
+Rib Reef,Site D,D-01,3m,23,42,10/05/2017,10:00:00,50,Resting,,5.5,0.6,0,Morning
+Rib Reef,Site D,D-01,3m,23,30,10/05/2017,10:00:00,10,Resting,,11.3,0.8,0,Morning
+Rib Reef,Site D,D-01,3m,23,30,10/05/2017,10:00:00,0,Resting,,25.1,-0.5,0,Morning
+Rib Reef,Site D,D-01,3m,23,35,10/05/2017,10:00:00,10,Resting,,29.3,-0.3,0,Morning
+Rib Reef,Site D,D-01,3m,23,42,10/05/2017,10:00:00,50,Resting,,31.3,-0.4,0,Morning
+Rib Reef,Site D,D-01,3m,23,27,10/05/2017,10:00:00,20,Resting,,2.7,0.6,0,Morning
+Rib Reef,Site D,D-01,3m,23,28,10/05/2017,10:00:00,0,Resting,,28.8,0.4,0,Morning
+Rib Reef,Site D,D-01,3m,23,42,10/05/2017,10:00:00,100,Moving,,16.5,-2,1,Morning
+Rib Reef,Site D,D-01,3m,23,35,14/05/2017,14:00:00,100,Feeding,A. hyacinthus,0.5,0,1,Afternoon
+Rib Reef,Site D,D-01,3m,23,36,14/05/2017,14:00:00,100,Feeding,A. hyacinthus,0.2,0.2,1,Afternoon
+Rib Reef,Site D,D-01,3m,23,28,14/05/2017,14:00:00,0,Resting,,30,0.3,0,Afternoon
+Rib Reef,Site D,D-01,3m,23,35,14/05/2017,14:00:00,0,Resting,,1,0.5,0,Afternoon
+Rib Reef,Site D,D-01,3m,23,35,14/05/2017,14:00:00,0,Resting,,1,1.3,0,Afternoon
+Rib Reef,Site D,D-01,3m,23,35,12/05/2017,19:00:00,60,Feeding,A. nasuta,0.5,0,1,Night
+Rib Reef,Site D,D-01,3m,23,36,12/05/2017,19:00:00,50,Moving,,0,-0.3,0,Night
+Rib Reef,Site D,D-01,3m,23,30,12/05/2017,19:00:00,50,Feeding,A. hyacinthus,11,0,0,Night
+Rib Reef,Site D,D-01,3m,23,28,12/05/2017,19:00:00,10,Feeding,A. hyacinthus,29,0.3,0,Night
+Rib Reef,Site D,D-01,3m,23,28,12/05/2017,19:00:00,10,Resting,,47.1,-1.3,0,Night
+Rib Reef,Site D,D-01,3m,23,30,12/05/2017,19:00:00,100,Feeding,A. humilis,5.8,-1.8,1,Night
+Rib Reef,Site D,D-01,3m,23,25,12/05/2017,19:00:00,100,Feeding,A. hyacinthus,3.6,-1.8,1,Night
+Rib Reef,Site D,D-01,3m,23,30,12/05/2017,19:00:00,0,Feeding,A. hyacinthus,0.2,0.4,0,Night
+Rib Reef,Site D,D-01,3m,23,30,12/05/2017,19:00:00,0,Feeding,A. hyacinthus,0.4,0.5,0,Night
+Rib Reef,Site D,D-01,3m,23,35,12/05/2017,19:00:00,100,Feeding,A. hyacinthus,1,1.2,1,Night
+Rib Reef,Site D,D-01,3m,23,35,12/05/2017,19:00:00,100,Feeding,A. hyacinthus,1,2,1,Night
+Rib Reef,Site D,D-01,3m,23,12,12/05/2017,19:00:00,100,Moving,,2.5,2.5,1,Night
+Rib Reef,Site D,D-01,3m,23,40,12/05/2017,19:00:00,100,Feeding,P. damicornis,3.7,1.6,1,Night
+Rib Reef,Site D,D-01,3m,23,25,12/05/2017,19:00:00,50,Feeding,A. valida,13,-1,0,Night
+Rib Reef,Site D,D-01,3m,23,30,12/05/2017,19:00:00,100,Moving,,15.6,-2,1,Night
+Rib Reef,Site D,D-01,3m,23,30,12/05/2017,19:00:00,80,Feeding,A. hyacinthus,20,0,1,Night
+Rib Reef,Site D,D-01,3m,23,25,12/05/2017,19:00:00,0,Resting,,28.8,0,0,Night
+Rib Reef,Site D,D-01,3m,23,10,12/05/2017,19:00:00,0,Feeding,A. hyacinthus,28.8,-1,0,Night
+Rib Reef,Site D,D-01,3m,23,35,12/05/2017,19:00:00,0,Feeding,A. hyacinthus,33.4,-1,0,Night
+Rib Reef,Site D,D-01,3m,23,25,12/05/2017,19:00:00,100,Feeding,A. hyacinthus,35.5,-0.4,1,Night
+Rib Reef,Site D,D-01,3m,23,20,12/05/2017,19:00:00,100,Feeding,A. hyacinthus,40,0.8,1,Night
+Rib Reef,Site D,D-01,3m,23,10,12/05/2017,19:00:00,100,Feeding,A. hyacinthus,43,1.2,1,Night
+Rib Reef,Site D,D-01,3m,23,35,13/05/2017,19:00:00,100,Feeding,A. millipora,0.5,1.2,1,Night
+Rib Reef,Site D,D-01,3m,23,36,13/05/2017,19:00:00,50,Moving,,0,-0.3,0,Night
+Rib Reef,Site D,D-01,3m,23,28,13/05/2017,19:00:00,100,Feeding,A. hyacinthus,30.6,0,1,Night
+Rib Reef,Site D,D-01,3m,23,25,13/05/2017,19:00:00,0,Feeding,A. hyacinthus,3.6,-1.8,0,Night
+Rib Reef,Site D,D-01,3m,23,30,13/05/2017,19:00:00,50,Feeding,A. hyacinthus,-1,0,0,Night
+Rib Reef,Site D,D-01,3m,23,30,13/05/2017,19:00:00,50,Feeding,A. hyacinthus,-1,0,0,Night
+Rib Reef,Site D,D-01,3m,23,35,13/05/2017,19:00:00,100,Feeding,A. hyacinthus,1,1.2,1,Night
+Rib Reef,Site D,D-01,3m,23,35,13/05/2017,19:00:00,100,Feeding,A. hyacinthus,1,2,1,Night
+Rib Reef,Site D,D-01,3m,23,40,13/05/2017,19:00:00,15,Resting,,3.7,1.2,0,Night
+Rib Reef,Site D,D-01,3m,23,30,13/05/2017,19:00:00,50,Feeding,A. hyacinthus,25,0,0,Night
+Rib Reef,Site D,D-01,3m,23,25,13/05/2017,19:00:00,0,Moving,,28.6,0,0,Night
+Rib Reef,Site D,D-01,3m,23,35,13/05/2017,19:00:00,0,Feeding,A. hyacinthus,33.5,-1.2,0,Night
+Rib Reef,Site D,D-01,3m,23,25,13/05/2017,19:00:00,10,Feeding,A. hyacinthus,34.6,0,0,Night
+Rib Reef,Site D,D-01,3m,23,15,13/05/2017,19:00:00,10,Resting,,15,-1.2,0,Night
+Rib Reef,Site D,D-01,3m,23,15,13/05/2017,19:00:00,100,Feeding,A. millipora,38,-0.3,1,Night
+Rib Reef,Site D,D-01,3m,23,15,13/05/2017,19:00:00,100,Feeding,P. meandrina,43,-0.8,1,Night
+Rib Reef,Site D,D-02,3m,51,29,12/05/2017,9:00:00,100,Feeding,,8.7,1.3,1,Morning
+Rib Reef,Site D,D-02,3m,51,36,12/05/2017,9:00:00,0,Resting,,12.4,0.5,0,Morning
+Rib Reef,Site D,D-02,3m,51,30,12/05/2017,9:00:00,5,Resting,,14,0.5,0,Morning
+Rib Reef,Site D,D-02,3m,51,38,12/05/2017,9:00:00,15,Resting,,18.8,0.5,0,Morning
+Rib Reef,Site D,D-02,3m,51,38,12/05/2017,9:00:00,5,Resting,,20.7,0.5,0,Morning
+Rib Reef,Site D,D-02,3m,51,29,12/05/2017,9:00:00,5,Resting,,21.8,1.7,0,Morning
+Rib Reef,Site D,D-02,3m,51,24,12/05/2017,9:00:00,0,Feeding,,26.4,0.4,0,Morning
+Rib Reef,Site D,D-02,3m,51,33,12/05/2017,9:00:00,50,Feeding,,26.7,0.3,0,Morning
+Rib Reef,Site D,D-02,3m,51,26,12/05/2017,9:00:00,30,Feeding,,27.8,0.6,0,Morning
+Rib Reef,Site D,D-02,3m,51,27,12/05/2017,9:00:00,0,Feeding,,24.8,0,0,Morning
+Rib Reef,Site D,D-02,3m,51,40,12/05/2017,9:00:00,100,Resting,,20,-0.4,1,Morning
+Rib Reef,Site D,D-02,3m,51,20,12/05/2017,9:00:00,10,Resting,,20,-0.4,0,Morning
+Rib Reef,Site D,D-02,3m,51,20,12/05/2017,9:00:00,10,Resting,,20,-0.4,0,Morning
+Rib Reef,Site D,D-02,3m,51,29,10/05/2017,10:00:00,100,Resting,,8.7,1.3,1,Morning
+Rib Reef,Site D,D-02,3m,51,36,10/05/2017,10:00:00,0,Feeding,,12.4,0.5,0,Morning
+Rib Reef,Site D,D-02,3m,51,30,10/05/2017,10:00:00,5,Feeding,,14,0.5,0,Morning
+Rib Reef,Site D,D-02,3m,51,38,10/05/2017,10:00:00,15,Feeding,,18.8,0.5,0,Morning
+Rib Reef,Site D,D-02,3m,51,38,10/05/2017,10:00:00,5,Feeding,,20.7,0.5,0,Morning
+Rib Reef,Site D,D-02,3m,51,29,10/05/2017,10:00:00,5,Feeding,,21.8,1.7,0,Morning
+Rib Reef,Site D,D-02,3m,51,24,10/05/2017,10:00:00,0,Feeding,,26.4,0.4,0,Morning
+Rib Reef,Site D,D-02,3m,51,33,10/05/2017,10:00:00,50,,,26.7,0.3,0,Morning
+Rib Reef,Site D,D-02,3m,51,23,10/05/2017,10:00:00,,,,27.7,0.8,0,Morning
+Rib Reef,Site D,D-02,3m,51,26,10/05/2017,10:00:00,30,,,27.8,0.6,0,Morning
+Rib Reef,Site D,D-02,3m,51,30,10/05/2017,10:00:00,,,,30.2,0.7,0,Morning
+Rib Reef,Site D,D-02,3m,51,18,10/05/2017,10:00:00,,,,41.4,0.5,0,Morning
+Rib Reef,Site D,D-02,3m,51,48,10/05/2017,10:00:00,,,,48.1,0.3,0,Morning
+Rib Reef,Site D,D-02,3m,51,27,10/05/2017,10:00:00,,,,24.8,0,0,Morning
+Rib Reef,Site D,D-02,3m,51,36,14/05/2017,14:00:00,100,Feeding,A. hyacinthus,12,0,1,Afternoon
+Rib Reef,Site D,D-02,3m,51,24,14/05/2017,14:00:00,0,Feeding,A. hyacinthus,26.6,0,0,Afternoon
+Rib Reef,Site D,D-02,3m,51,30,14/05/2017,14:00:00,100,Feeding,A. hyacinthus,13.6,0,1,Afternoon
+Rib Reef,Site D,D-02,3m,51,25,14/05/2017,14:00:00,100,Feeding,A. hyacinthus,25,0,1,Afternoon
+Rib Reef,Site D,D-02,3m,51,25,14/05/2017,14:00:00,0,Resting,,26.6,0,0,Afternoon
+Rib Reef,Site D,D-02,3m,51,30,14/05/2017,14:00:00,0,Resting,,27.5,0,0,Afternoon
+Rib Reef,Site D,D-02,3m,51,36,12/05/2017,19:00:00,100,Feeding,A. hyacinthus,12.5,0.7,1,Night
+Rib Reef,Site D,D-02,3m,51,38,12/05/2017,19:00:00,100,Moving,,18,0,1,Night
+Rib Reef,Site D,D-02,3m,51,24,12/05/2017,19:00:00,10,Feeding,A. hyacinthus,26.6,0,0,Night
+Rib Reef,Site D,D-02,3m,51,30,12/05/2017,19:00:00,100,Feeding,A. hyacinthus,30.5,-1.2,1,Night
+Rib Reef,Site D,D-02,3m,51,20,12/05/2017,19:00:00,10,Feeding,A. hyacinthus,20.6,0,0,Night
+Rib Reef,Site D,D-02,3m,51,20,12/05/2017,19:00:00,0,Feeding,A. hyacinthus,20.6,-0.1,0,Night
+Rib Reef,Site D,D-02,3m,51,30,12/05/2017,19:00:00,100,Moving,,5.2,1.5,1,Night
+Rib Reef,Site D,D-02,3m,51,30,12/05/2017,19:00:00,100,Moving,,8.4,0,1,Night
+Rib Reef,Site D,D-02,3m,51,30,12/05/2017,19:00:00,5,Feeding,A. hyacinthus,14,0.2,0,Night
+Rib Reef,Site D,D-02,3m,51,10,12/05/2017,19:00:00,0,Feeding,A. hyacinthus,20.6,0.1,0,Night
+Rib Reef,Site D,D-02,3m,51,10,12/05/2017,19:00:00,0,Feeding,A. hyacinthus,20.8,0.2,0,Night
+Rib Reef,Site D,D-02,3m,51,25,12/05/2017,19:00:00,0,Feeding,A. hyacinthus,24.8,0,0,Night
+Rib Reef,Site D,D-02,3m,51,25,12/05/2017,19:00:00,30,Feeding,A. hyacinthus,26.6,0,0,Night
+Rib Reef,Site D,D-02,3m,51,30,12/05/2017,19:00:00,10,Moving,,26.6,0,0,Night
+Rib Reef,Site D,D-02,3m,51,15,12/05/2017,19:00:00,10,Moving,,26,0,0,Night
+Rib Reef,Site D,D-02,3m,51,30,12/05/2017,19:00:00,0,Feeding,A. hyacinthus,28,-0.5,0,Night
+Rib Reef,Site D,D-02,3m,51,25,12/05/2017,19:00:00,0,Feeding,A. hyacinthus,28,-0.6,0,Night
+Rib Reef,Site D,D-02,3m,51,30,12/05/2017,19:00:00,100,Moving,,40.7,-2,1,Night
+Rib Reef,Site D,D-02,3m,51,10,12/05/2017,19:00:00,50,Feeding,A. intermedia,45.2,0.2,0,Night
+Rib Reef,Site D,D-02,3m,51,35,12/05/2017,19:00:00,100,Moving,,48.3,-0.9,1,Night
+Rib Reef,Site D,D-02,3m,51,36,13/05/2017,19:00:00,100,Feeding,A. hyacinthus,12.5,0.7,1,Night
+Rib Reef,Site D,D-02,3m,51,38,13/05/2017,19:00:00,100,Feeding,A. hyacinthus,18,0,1,Night
+Rib Reef,Site D,D-02,3m,51,29,13/05/2017,19:00:00,100,Feeding,A. hyacinthus,22,3,1,Night
+Rib Reef,Site D,D-02,3m,51,24,13/05/2017,19:00:00,10,Feeding,A. hyacinthus,26.6,0,0,Night
+Rib Reef,Site D,D-02,3m,51,30,13/05/2017,19:00:00,100,Feeding,A. hyacinthus,30.5,-1.2,1,Night
+Rib Reef,Site D,D-02,3m,51,20,13/05/2017,19:00:00,5,Resting,,19.6,0,0,Night
+Rib Reef,Site D,D-02,3m,51,20,13/05/2017,19:00:00,0,Feeding,A. hyacinthus,20.6,-0.1,0,Night
+Rib Reef,Site D,D-02,3m,51,30,13/05/2017,19:00:00,100,Feeding,,5,0,1,Night
+Rib Reef,Site D,D-02,3m,51,30,13/05/2017,19:00:00,0,Resting,,13.9,-0.3,0,Night
+Rib Reef,Site D,D-02,3m,51,10,13/05/2017,19:00:00,0,Feeding,A. hyacinthus,20.6,0.1,0,Night
+Rib Reef,Site D,D-02,3m,51,10,13/05/2017,19:00:00,100,Feeding,A. intermedia,21.9,0.3,1,Night
+Rib Reef,Site D,D-02,3m,51,25,13/05/2017,19:00:00,0,Feeding,A. hyacinthus,24.8,0,0,Night
+Rib Reef,Site D,D-02,3m,51,25,13/05/2017,19:00:00,0,Feeding,A. hyacinthus,26.6,0,0,Night
+Rib Reef,Site D,D-02,3m,51,30,13/05/2017,19:00:00,100,Feeding,A. hyacinthus,27,0,1,Night
+Rib Reef,Site D,D-02,3m,51,15,13/05/2017,19:00:00,100,Feeding,A. hyacinthus,27,0,1,Night
+Rib Reef,Site D,D-02,3m,51,30,13/05/2017,19:00:00,0,Feeding,A. hyacinthus,28,-0.5,0,Night
+Rib Reef,Site D,D-02,3m,51,25,13/05/2017,19:00:00,0,Feeding,A. hyacinthus,28,-0.6,0,Night
+Rib Reef,Site D,D-02,3m,51,30,13/05/2017,19:00:00,100,Resting,,41,-1,1,Night
+Rib Reef,Site D,D-02,3m,51,15,13/05/2017,19:00:00,0,Feeding,A. millipora,12.9,0,0,Night
+Rib Reef,Site D,D-02,3m,51,15,13/05/2017,19:00:00,10,Feeding,A. intermedia,15.3,0,0,Night
+Rib Reef,Site D,D-02,3m,51,15,13/05/2017,19:00:00,15,Feeding,A. intermedia,15.3,0.4,0,Night
+Rib Reef,Site D,D-02,3m,51,15,13/05/2017,19:00:00,20,Feeding,A. intermedia,37.4,2.5,0,Night
+Rib Reef,Site E,E-01,3m,44,30,14/05/2017,8:00:00,100,Feeding,A. hyacinthus,38,4.2,1,Morning
+Rib Reef,Site E,E-01,3m,44,30,14/05/2017,8:00:00,100,Feeding,A. intermedia,42.5,2,1,Morning
+Rib Reef,Site E,E-01,3m,44,30,14/05/2017,8:00:00,20,Resting,,50,1.4,0,Morning
+Rib Reef,Site E,E-01,3m,44,40,12/05/2017,12:00:00,50,Resting,,11,1.1,0,Midday
+Rib Reef,Site E,E-01,3m,44,30,12/05/2017,12:00:00,100,Resting,,38.4,2,1,Midday
+Rib Reef,Site E,E-01,3m,44,30,12/05/2017,12:00:00,50,Resting,,42.7,1.5,0,Midday
+Rib Reef,Site E,E-01,3m,44,30,13/05/2017,18:30:00,50,Feeding,,35,7.1,0,Night
+Rib Reef,Site E,E-01,3m,44,30,13/05/2017,18:30:00,0,Resting,,50,1.2,0,Night
+Rib Reef,Site E,E-02,6m,16,35,14/05/2017,8:00:00,100,Feeding,A. cytherea,5.7,0.4,1,Morning
+Rib Reef,Site E,E-02,6m,16,30,14/05/2017,8:00:00,0,Resting,,4,1.2,0,Morning
+Rib Reef,Site E,E-02,6m,16,35,14/05/2017,8:00:00,50,Resting,,11,0.3,0,Morning
+Rib Reef,Site E,E-02,6m,16,35,14/05/2017,8:00:00,0,Feeding,A. millipora,26.8,1,0,Morning
+Rib Reef,Site E,E-02,6m,16,25,14/05/2017,8:00:00,10,Feeding,A. intermedia,0,-1,0,Morning
+Rib Reef,Site E,E-02,6m,16,25,14/05/2017,8:00:00,10,Feeding,A. intermedia,0,-1,0,Morning
+Rib Reef,Site E,E-02,6m,16,25,14/05/2017,8:00:00,0,Resting,,4,1.2,0,Morning
+Rib Reef,Site E,E-02,6m,16,30,14/05/2017,8:00:00,100,Feeding,A. intermedia,5.4,0.4,1,Morning
+Rib Reef,Site E,E-02,6m,16,30,14/05/2017,8:00:00,50,Resting,,22.8,1,0,Morning
+Rib Reef,Site E,E-02,6m,16,35,12/05/2017,12:00:00,0,Moving,,2.1,0.4,0,Midday
+Rib Reef,Site E,E-02,6m,16,30,12/05/2017,12:00:00,0,Resting,,3.9,1.2,0,Midday
+Rib Reef,Site E,E-02,6m,16,35,12/05/2017,12:00:00,40,Feeding,Goniastrea,9.1,0,0,Midday
+Rib Reef,Site E,E-02,6m,16,45,12/05/2017,12:00:00,100,Moving,,22.2,-1,1,Midday
+Rib Reef,Site E,E-02,6m,16,35,12/05/2017,12:00:00,0,Feeding,Pachyseris,26.2,1.2,0,Midday
+Rib Reef,Site E,E-02,6m,16,35,13/05/2017,18:30:00,100,Feeding,P. damicornis,5,1,1,Night
+Rib Reef,Site E,E-02,6m,16,30,13/05/2017,18:30:00,0,Feeding,A. hyacinthus,3.7,1.4,0,Night
+Rib Reef,Site E,E-02,6m,16,35,13/05/2017,18:30:00,100,Feeding,A. hyacinthus,10.5,0,1,Night
+Rib Reef,Site E,E-02,6m,16,35,13/05/2017,18:30:00,0,Resting,,26.2,1.2,0,Night
+Rib Reef,Site E,E-02,6m,16,25,13/05/2017,18:30:00,10,Feeding,A. intermedia,0,-1,0,Night
+Rib Reef,Site E,E-02,6m,16,25,13/05/2017,18:30:00,10,Feeding,A. intermedia,0,-1,0,Night
+Rib Reef,Site E,E-02,6m,16,25,13/05/2017,18:30:00,20,Feeding,A. intermedia,2.5,1.5,0,Night
+Rib Reef,Site E,E-02,6m,16,30,13/05/2017,18:30:00,0,Resting,,5,2,0,Night
+Rib Reef,Site E,E-02,6m,16,25,13/05/2017,18:30:00,10,Feeding,A. intermedia,10.6,-1.2,0,Night
+Rib Reef,Site E,E-02,6m,16,30,13/05/2017,18:30:00,0,Feeding,A. hyacinthus,21.4,2,0,Night
+Rib Reef,Site E,E-02,6m,16,35,13/05/2017,18:30:00,0,Feeding,A. hyacinthus,21.4,2,0,Night
+Gili Lankanfushi,Site F,F-01,2m,53,46,4/03/2017,9:00:00,100,Feeding,P. lutea,,,1,Morning
+Gili Lankanfushi,Site F,F-01,2m,53,49,4/03/2017,9:00:00,0,Feeding,Favites,,,0,Morning
+Gili Lankanfushi,Site F,F-01,2m,53,25,4/03/2017,9:00:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site F,F-01,2m,53,39,4/03/2017,9:00:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site F,F-01,2m,53,25,4/03/2017,9:00:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site F,F-01,2m,53,50,25/02/2017,12:00:00,100,Resting,,,,1,Midday
+Gili Lankanfushi,Site F,F-01,2m,53,45,25/02/2017,12:00:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site F,F-01,2m,53,53,25/02/2017,12:00:00,100,Feeding,P. lutea,,,1,Midday
+Gili Lankanfushi,Site F,F-01,2m,53,49,25/02/2017,12:00:00,100,Feeding,P. lutea,,,1,Midday
+Gili Lankanfushi,Site F,F-01,2m,53,39,25/02/2017,12:00:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site F,F-01,2m,53,40,25/02/2017,12:00:00,100,Feeding,P. lutea,,,1,Midday
+Gili Lankanfushi,Site F,F-01,2m,53,45,25/02/2017,12:00:00,100,Resting,,,,1,Midday
+Gili Lankanfushi,Site F,F-01,2m,53,50,25/02/2017,12:00:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site F,F-01,2m,53,35,25/02/2017,12:00:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site F,F-01,2m,53,45,25/02/2017,12:00:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site F,F-01,2m,53,?,8/03/2017,17:00:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site F,F-01,2m,53,34,8/03/2017,17:00:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site F,F-01,2m,53,35,8/03/2017,17:00:00,0,Feeding,Pavona,,,0,Afternoon
+Gili Lankanfushi,Site F,F-01,2m,53,40,8/03/2017,17:00:00,100,Feeding,Echinopora,,,1,Afternoon
+Gili Lankanfushi,Site F,F-01,2m,53,42,8/03/2017,17:00:00,100,Resting,,,,1,Afternoon
+Gili Lankanfushi,Site F,F-01,2m,53,41,8/03/2017,17:00:00,100,Feeding,P. lutea,,,1,Afternoon
+Gili Lankanfushi,Site F,F-01,2m,53,39,8/03/2017,17:00:00,100,Resting,,,,1,Afternoon
+Gili Lankanfushi,Site F,F-01,2m,53,49,8/03/2017,17:00:00,100,Resting,,,,1,Afternoon
+Gili Lankanfushi,Site F,F-01,2m,53,39,8/03/2017,17:00:00,100,Feeding,Echinopora,,,1,Afternoon
+Gili Lankanfushi,Site F,F-01,2m,53,43,8/03/2017,17:00:00,100,Moving,,,,1,Afternoon
+Gili Lankanfushi,Site F,F-01,2m,53,37,8/03/2017,17:00:00,0,Feeding,P. lutea,,,0,Afternoon
+Gili Lankanfushi,Site F,F-01,2m,53,43,8/03/2017,17:00:00,100,Feeding,Pavona,,,1,Afternoon
+Gili Lankanfushi,Site F,F-01,2m,53,40,8/03/2017,17:00:00,100,Feeding,P. lutea,,,1,Afternoon
+Gili Lankanfushi,Site F,F-01,2m,53,40,29/03/2017,21:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site F,F-01,2m,53,43,29/03/2017,21:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site F,F-01,2m,53,43,29/03/2017,21:00:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site F,F-01,2m,53,36,29/03/2017,21:00:00,100,Moving,,,,1,Night
+Gili Lankanfushi,Site F,F-01,2m,53,48,29/03/2017,21:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site F,F-01,2m,53,40,29/03/2017,21:00:00,0,Resting,,,,0,Night
+Gili Lankanfushi,Site F,F-01,2m,53,43,29/03/2017,21:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site F,F-01,2m,53,40,29/03/2017,21:00:00,100,Moving,,,,1,Night
+Gili Lankanfushi,Site F,F-01,2m,53,42,29/03/2017,21:00:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site F,F-01,2m,53,36,29/03/2017,21:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site F,F-01,2m,53,50,29/03/2017,21:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site F,F-01,2m,53,43,29/03/2017,21:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site F,F-01,2m,53,40,29/03/2017,21:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site F,F-01,2m,53,39,29/03/2017,21:00:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site F,F-01,2m,53,42,29/03/2017,21:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site F,F-01,2m,53,43,29/03/2017,21:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site F,F-02,8m,9,39,4/03/2017,9:00:00,100,Resting,,,,1,Morning
+Gili Lankanfushi,Site F,F-02,8m,9,38,4/03/2017,9:00:00,100,Resting,,,,1,Morning
+Gili Lankanfushi,Site F,F-02,8m,9,38,4/03/2017,9:00:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site F,F-02,8m,9,38,4/03/2017,9:00:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site F,F-02,8m,9,39,4/03/2017,9:00:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site F,F-02,8m ,9,41,25/02/2017,11:30:00,100,Feeding,P. lutea,,,1,Midday
+Gili Lankanfushi,Site F,F-02,8m,9,38,25/02/2017,11:30:00,100,Feeding,Pavona,,,1,Midday
+Gili Lankanfushi,Site F,F-02,8m ,9,53,25/02/2017,11:30:00,100,Feeding,P. lutea,,,1,Midday
+Gili Lankanfushi,Site F,F-02,8m,9,39,25/02/2017,11:30:00,100,Feeding,P. lutea,,,1,Midday
+Gili Lankanfushi,Site F,F-02,8m ,9,40,25/02/2017,11:30:00,100,Feeding,P. lutea,,,1,Midday
+Gili Lankanfushi,Site F,F-02,8m,9,46,8/03/2017,16:30:00,100,Moving,,,,1,Afternoon
+Gili Lankanfushi,Site F,F-02,8m ,9,32,3/03/2017,16:30:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site F,F-02,8m,9,49,8/03/2017,16:30:00,100,Feeding,Pavona,,,1,Afternoon
+Gili Lankanfushi,Site F,F-02,8m ,9,41,29/03/2017,21:00:00,0,Resting,,,,0,Night
+Gili Lankanfushi,Site F,F-02,8m,9,44,29/03/2017,21:00:00,100,Moving,,,,1,Night
+Gili Lankanfushi,Site F,F-02,8m ,9,43,29/03/2017,21:00:00,100,Feeding,Pavona,,,1,Night
+Gili Lankanfushi,Site F,F-03,15m,7,30,4/03/2017,8:15:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site F,F-03,15m,7,34,4/03/2017,8:15:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site F,F-03,15m,7,42,4/03/2017,8:15:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site F,F-03,15m,7,30,4/03/2017,8:15:00,0,Feeding,P. lutea,,,0,Morning
+Gili Lankanfushi,Site F,F-03,15m,7,39,4/03/2017,8:15:00,100,Feeding,P. rus,,,1,Morning
+Gili Lankanfushi,Site F,F-03,15m,7,46,4/03/2017,8:15:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site F,F-03,15m,7,30,4/03/2017,8:15:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site F,F-03,15m,7,42,25/02/2017,12:00:00,100,Feeding,P. lutea,,,1,Midday
+Gili Lankanfushi,Site F,F-03,15m,7,50,25/02/2017,12:00:00,0,Feeding,P. lutea,,,0,Midday
+Gili Lankanfushi,Site F,F-03,15m,7,40,25/02/2017,12:00:00,100,Feeding,P. rus,,,1,Midday
+Gili Lankanfushi,Site F,F-03,15m,7,45,25/02/2017,12:00:00,100,Resting,,,,1,Midday
+Gili Lankanfushi,Site F,F-03,15m,7,39,25/02/2017,12:00:00,0,Feeding,P. lutea,,,0,Midday
+Gili Lankanfushi,Site F,F-03,15m,7,43,8/03/2017,16:00:00,100,Resting,,,,1,Afternoon
+Gili Lankanfushi,Site F,F-03,15m,7,43,8/03/2017,16:00:00,100,Resting,,,,1,Afternoon
+Gili Lankanfushi,Site F,F-03,15m,7,?,8/03/2017,16:00:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site F,F-03,15m,7,35,8/03/2017,16:00:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site F,F-03,15m,7,43,8/03/2017,16:00:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site F,F-03,15m,7,45,29/03/2017,20:45:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site F,F-03,15m,7,49,29/03/2017,20:45:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site F,F-03,15m,7,45,29/03/2017,20:45:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site F,F-03,15m,7,38,29/03/2017,20:45:00,100,Feeding,Pavona,,,1,Night
+Gili Lankanfushi,Site F,F-03,15m,7,43,29/03/2017,20:45:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site G,G-01,2m,54,37,4/03/2017,9:15:00,100,Resting,,,,1,Morning
+Gili Lankanfushi,Site G,G-01,2m,54,36,4/03/2017,9:15:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site G,G-01,2m,54,36,4/03/2017,9:15:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site G,G-01,2m,54,?,4/03/2017,9:15:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site G,G-01,2m,54,50,25/02/2017,12:15:00,100,Feeding,P. lutea,,,1,Midday
+Gili Lankanfushi,Site G,G-01,2m,54,53,25/02/2017,12:15:00,100,Feeding,P. lutea,,,1,Midday
+Gili Lankanfushi,Site G,G-01,2m,54,29,25/02/2017,12:15:00,0,Moving,,,,0,Midday
+Gili Lankanfushi,Site G,G-01,2m,54,32,25/02/2017,12:15:00,100,Feeding,P. lutea,,,1,Midday
+Gili Lankanfushi,Site G,G-01,2m,54,50,25/02/2017,12:15:00,100,Feeding,P. lutea,,,1,Midday
+Gili Lankanfushi,Site G,G-01,2m,54,53,25/02/2017,12:15:00,100,Feeding,P. lutea,,,1,Midday
+Gili Lankanfushi,Site G,G-01,2m,54,35,25/02/2017,12:15:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site G,G-01,2m,54,46,8/03/2017,17:15:00,100,Feeding,P. lutea,,,1,Afternoon
+Gili Lankanfushi,Site G,G-01,2m,54,36,8/03/2017,17:15:00,0,Feeding,Pavona,,,0,Afternoon
+Gili Lankanfushi,Site G,G-01,2m,54,45,8/03/2017,17:15:00,100,Feeding,A. digitifera,,,1,Afternoon
+Gili Lankanfushi,Site G,G-01,2m,54,39,8/03/2017,17:15:00,100,Feeding,P. lutea,,,1,Afternoon
+Gili Lankanfushi,Site G,G-01,2m,54,43,8/03/2017,17:15:00,100,Feeding,P. lutea,,,1,Afternoon
+Gili Lankanfushi,Site G,G-01,2m,54,45,8/03/2017,17:15:00,100,Feeding,Acropora ,,,1,Afternoon
+Gili Lankanfushi,Site G,G-01,2m,54,42,29/03/2017,22:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site G,G-01,2m,54,40,29/03/2017,22:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site G,G-01,2m,54,33,29/03/2017,22:00:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site G,G-01,2m,54,44,29/03/2017,22:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site G,G-01,2m,54,39,29/03/2017,22:00:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site G,G-01,2m,54,39,29/03/2017,22:00:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site G,G-01,2m,54,50,29/03/2017,22:00:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site G,G-01,2m,54,47,29/03/2017,22:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site G,G-01,2m,54,29,29/03/2017,22:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site G,G-01,2m,54,50,29/03/2017,22:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site G,G-01,2m,54,44,29/03/2017,22:00:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site G,G-01,2m,54,45,29/03/2017,22:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site G,G-02,8m,25,40,4/03/2017,9:00:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site G,G-02,8m,25,37,4/03/2017,9:00:00,100,Feeding,Pavona,,,1,Morning
+Gili Lankanfushi,Site G,G-02,8m,25,39,4/03/2017,9:00:00,100,Feeding,Pavona,,,1,Morning
+Gili Lankanfushi,Site G,G-02,8m,25,?,4/03/2017,9:00:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site G,G-02,8m,25,43,4/03/2017,9:00:00,100,Feeding,Pavona,,,1,Morning
+Gili Lankanfushi,Site G,G-02,8m,25,39,4/03/2017,9:00:00,100,Feeding,Pavona,,,1,Morning
+Gili Lankanfushi,Site G,G-02,8m,25,34,4/03/2017,9:00:00,100,Feeding,CCA,,,1,Morning
+Gili Lankanfushi,Site G,G-02,8m,25,35,25/02/2017,11:45:00,100,Feeding,Pavona,,,1,Midday
+Gili Lankanfushi,Site G,G-02,8m,25,33,25/02/2017,11:45:00,100,Feeding,P. lutea,,,1,Midday
+Gili Lankanfushi,Site G,G-02,8m,25,40,25/02/2017,11:45:00,0,Feeding,P. lutea,,,0,Midday
+Gili Lankanfushi,Site G,G-02,8m,25,31,8/03/2017,16:45:00,0,Moving,,,,0,Afternoon
+Gili Lankanfushi,Site G,G-02,8m,25,53,8/03/2017,16:45:00,0,Moving,,,,0,Afternoon
+Gili Lankanfushi,Site G,G-02,8m,25,46,8/03/2017,16:45:00,0,Feeding,Plerogyra sinuosa,,,0,Afternoon
+Gili Lankanfushi,Site G,G-02,8m,25,42,8/03/2017,16:45:00,100,Moving,,,,1,Afternoon
+Gili Lankanfushi,Site G,G-02,8m,25,40,8/03/2017,16:45:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site G,G-02,8m,25,47,8/03/2017,16:45:00,100,Moving,,,,1,Afternoon
+Gili Lankanfushi,Site G,G-02,8m,25,46,8/03/2017,16:45:00,100,Moving,,,,1,Afternoon
+Gili Lankanfushi,Site G,G-02,8m,25,45,8/03/2017,16:45:00,100,Feeding,Pavona,,,1,Afternoon
+Gili Lankanfushi,Site G,G-02,8m,25,50,8/03/2017,16:45:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site G,G-02,8m,25,46,8/03/2017,16:45:00,100,Moving,,,,1,Afternoon
+Gili Lankanfushi,Site G,G-02,8m,25,43,29/03/2017,21:15:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site G,G-02,8m,25,41,29/03/2017,21:15:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site G,G-02,8m,25,41,29/03/2017,21:15:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site G,G-02,8m,25,43,29/03/2017,21:15:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site G,G-03,15m,5,37,4/03/2017,8:30:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site G,G-03,15m,5,32,4/03/2017,8:30:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site G,G-03,15m,5,40,4/03/2017,8:30:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site G,G-03,15m,5,39,4/03/2017,8:30:00,0,Feeding,P. lutea,,,0,Morning
+Gili Lankanfushi,Site G,G-03,15m,5,48,4/03/2017,8:30:00,100,Feeding,Pavona,,,1,Morning
+Gili Lankanfushi,Site G,G-03,15m,5,38,4/03/2017,8:30:00,0,Feeding,Pavona,,,0,Morning
+Gili Lankanfushi,Site G,G-03,15m,5,49,4/03/2017,8:30:00,100,Feeding,Sarcophyton,,,1,Morning
+Gili Lankanfushi,Site G,G-03,15m,5,34,25/02/2017,11:30:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site G,G-03,15m,5,40,25/02/2017,11:30:00,100,Feeding,P. lutea,,,1,Midday
+Gili Lankanfushi,Site G,G-03,15m,5,38,25/02/2017,11:30:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site G,G-03,15m,5,39,25/02/2017,11:30:00,0,Feeding,P. lutea,,,0,Midday
+Gili Lankanfushi,Site G,G-03,15m,5,31,25/02/2017,11:30:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site G,G-03,15m,5,44,25/02/2017,11:30:00,100,Feeding,Montipora,,,1,Midday
+Gili Lankanfushi,Site G,G-03,15m,5,41,8/03/2017,16:15:00,100,Resting,,,,1,Afternoon
+Gili Lankanfushi,Site G,G-03,15m,5,47,8/03/2017,16:15:00,100,Feeding,Pavona,,,1,Afternoon
+Gili Lankanfushi,Site G,G-03,15m,5,?,8/03/2017,16:15:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site G,G-03,15m,5,50,8/03/2017,16:15:00,100,Feeding,Diploastrea heliopora,,,1,Afternoon
+Gili Lankanfushi,Site G,G-03,15m,5,44,8/03/2017,16:15:00,100,Feeding,Pavona,,,1,Afternoon
+Gili Lankanfushi,Site G,G-03,15m,5,37,8/03/2017,16:15:00,100,Feeding,Pavona,,,1,Afternoon
+Gili Lankanfushi,Site G,G-03,15m,5,44,8/03/2017,16:15:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site G,G-03,15m,5,49,8/03/2017,16:15:00,100,Moving,,,,1,Afternoon
+Gili Lankanfushi,Site G,G-03,15m,5,?,8/03/2017,16:15:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site G,G-03,15m,5,42,8/03/2017,16:15:00,100,Feeding,Acropora ,,,1,Afternoon
+Gili Lankanfushi,Site G,G-03,15m,5,46,8/03/2017,16:15:00,100,Feeding,Symphillia radiens,,,1,Afternoon
+Gili Lankanfushi,Site G,G-03,15m,5,30,8/03/2017,16:15:00,100,Feeding,Montipora,,,1,Afternoon
+Gili Lankanfushi,Site G,G-03,15m,5,41,29/03/2017,20:45:00,100,Feeding,CCA,,,1,Night
+Gili Lankanfushi,Site G,G-03,15m,5,42,29/03/2017,20:45:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site G,G-03,15m,5,42,29/03/2017,20:45:00,100,Feeding,Echinopora,,,1,Night
+Gili Lankanfushi,Site G,G-03,15m,5,44,29/03/2017,20:45:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site G,G-03,15m,5,43,29/03/2017,20:45:00,100,Feeding,Acropora ,,,1,Night
+Gili Lankanfushi,Site H,H-01,2m,18,33,17/03/2017,9:30:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site H,H-01,2m,18,37,17/03/2017,9:30:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site H,H-01,2m,18,31,17/03/2017,9:30:00,100,Feeding,Pavona,,,1,Morning
+Gili Lankanfushi,Site H,H-01,2m,18,42,17/03/2017,9:30:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site H,H-01,2m,18,40,17/03/2017,9:30:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site H,H-01,2m,18,55,17/03/2017,9:30:00,100,Feeding,P. verrucosa,,,1,Morning
+Gili Lankanfushi,Site H,H-01,2m,18,48,17/03/2017,9:30:00,100,Feeding,P. lutea,,,1,Morning
+Gili Lankanfushi,Site H,H-01,2m,18,40,17/03/2017,9:30:00,100,Resting,,,,1,Morning
+Gili Lankanfushi,Site H,H-01,2m,18,51,17/03/2017,9:30:00,100,Feeding,P. solida,,,1,Morning
+Gili Lankanfushi,Site H,H-01,2m,18,35,16/02/2017,11:45:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site H,H-01,2m,18,36,16/02/2017,11:45:00,100,Moving,,,,1,Midday
+Gili Lankanfushi,Site H,H-01,2m,18,51,16/02/2017,11:45:00,100,Feeding,Echinopora,,,1,Midday
+Gili Lankanfushi,Site H,H-01,2m,18,28,16/02/2017,11:45:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site H,H-01,2m,18,35,16/02/2017,11:45:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site H,H-01,2m,18,42,14/03/2017,16:30:00,100,Feeding,P. rus,,,1,Afternoon
+Gili Lankanfushi,Site H,H-01,2m,18,48,14/03/2017,16:30:00,100,Resting,,,,1,Afternoon
+Gili Lankanfushi,Site H,H-01,2m,18,40,14/03/2017,16:30:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site H,H-01,2m,18,37,14/03/2017,16:30:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site H,H-01,2m,18,30,14/03/2017,16:30:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site H,H-01,2m,18,30,14/03/2017,16:30:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site H,H-01,2m,18,39,14/03/2017,16:30:00,100,Feeding,Acropora ,,,1,Afternoon
+Gili Lankanfushi,Site H,H-01,2m,18,43,14/03/2017,16:30:00,100,Resting,,,,1,Afternoon
+Gili Lankanfushi,Site H,H-01,2m,18,45,14/03/2017,16:30:00,100,Feeding,Goniastrea retiformis,,,1,Afternoon
+Gili Lankanfushi,Site H,H-01,2m,18,38,14/03/2017,16:30:00,100,Feeding,Pavona,,,1,Afternoon
+Gili Lankanfushi,Site H,H-01,2m,18,48,14/03/2017,16:30:00,0,Feeding,Leptoseris,,,0,Afternoon
+Gili Lankanfushi,Site H,H-01,2m,18,36,26/03/2017,21:00:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site H,H-01,2m,18,40,26/03/2017,21:00:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site H,H-01,2m,18,43,26/03/2017,21:00:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site H,H-01,2m,18,40,26/03/2017,21:00:00,100,Feeding,Pavona,,,1,Night
+Gili Lankanfushi,Site H,H-01,2m,18,44,26/03/2017,21:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site H,H-01,2m,18,43,26/03/2017,21:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site H,H-01,2m,18,37,26/03/2017,21:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site H,H-01,2m,18,46,26/03/2017,21:00:00,100,Feeding,Favia pallida,,,1,Night
+Gili Lankanfushi,Site H,H-01,2m,18,44,26/03/2017,21:00:00,100,Feeding,CCA,,,1,Night
+Gili Lankanfushi,Site H,H-01,2m,18,42,26/03/2017,21:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site H,H-01,2m,18,42,26/03/2017,21:00:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site H,H-01,2m,18,22,26/03/2017,21:00:00,100,Feeding,Montipora,,,1,Night
+Gili Lankanfushi,Site H,H-01,2m,18,44,26/03/2017,21:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site H,H-01,2m,18,36,26/03/2017,21:00:00,100,Feeding,Montipora,,,1,Night
+Gili Lankanfushi,Site H,H-01,2m,18,42,26/03/2017,21:00:00,100,Feeding,Goniastrea retiformis,,,1,Night
+Gili Lankanfushi,Site H,H-01,2m,18,49,26/03/2017,21:00:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site H,H-02,8m,15,39,17/03/2017,8:45:00,100,Feeding,Pavona,,,1,Morning
+Gili Lankanfushi,Site H,H-02,8m,15,40,17/03/2017,8:45:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site H,H-02,8m,15,39,17/03/2017,8:45:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site H,H-02,8m,15,43,17/03/2017,8:45:00,100,Feeding,Echinopora,,,1,Morning
+Gili Lankanfushi,Site H,H-02,8m,15,42,17/03/2017,8:45:00,0,Feeding,Pavona,,,0,Morning
+Gili Lankanfushi,Site H,H-02,8m,15,35,17/03/2017,8:45:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site H,H-02,8m,15,30,17/03/2017,8:45:00,0,Feeding,Pavona,,,0,Morning
+Gili Lankanfushi,Site H,H-02,8m,15,35,17/03/2017,8:45:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site H,H-02,8m,15,44,16/03/2017,11:30:00,100,Feeding,Fungidae,,,1,Midday
+Gili Lankanfushi,Site H,H-02,8m,15,37,16/03/2017,11:30:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site H,H-02,8m,15,35,16/03/2017,11:30:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site H,H-02,8m,15,40,16/03/2017,11:30:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site H,H-02,8m,15,32,16/03/2017,11:30:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site H,H-02,8m,15,48,16/03/2017,11:30:00,100,Feeding,Pavona,,,1,Midday
+Gili Lankanfushi,Site H,H-02,8m,15,57,14/03/2017,16:15:00,100,Resting,,,,1,Afternoon
+Gili Lankanfushi,Site H,H-02,8m,15,45,14/03/2017,16:15:00,0,Feeding,Pavona,,,0,Afternoon
+Gili Lankanfushi,Site H,H-02,8m,15,42,14/03/2017,16:15:00,100,Feeding,P. lutea,,,1,Afternoon
+Gili Lankanfushi,Site H,H-02,8m,15,37,14/03/2017,16:15:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site H,H-02,8m,15,39,14/03/2017,16:15:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site H,H-02,8m,15,40,14/03/2017,16:15:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site H,H-02,8m,15,46,14/03/2017,16:15:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site H,H-02,8m,15,43,14/03/2017,16:15:00,0,Feeding,Acropora ,,,0,Afternoon
+Gili Lankanfushi,Site H,H-02,8m,15,40,14/03/2017,16:15:00,100,Feeding,Goniastrea retiformis,,,1,Afternoon
+Gili Lankanfushi,Site H,H-02,8m,15,42,14/03/2017,16:15:00,100,Feeding,Galaxea fascularis,,,1,Afternoon
+Gili Lankanfushi,Site H,H-02,8m,15,36,26/03/2017,20:30:00,100,Feeding,Echinopora,,,1,Night
+Gili Lankanfushi,Site H,H-02,8m,15,30,26/03/2017,20:30:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site H,H-02,8m,15,40,26/03/2017,20:30:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site H,H-02,8m,15,41,26/03/2017,20:30:00,100,Feeding,Pavona,,,1,Night
+Gili Lankanfushi,Site H,H-02,8m,15,42,26/03/2017,20:30:00,100,Moving,,,,1,Night
+Gili Lankanfushi,Site H,H-02,8m,15,43,26/03/2017,20:30:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site H,H-02,8m,15,44,26/03/2017,20:30:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site H,H-02,8m,15,41,26/03/2017,20:30:00,100,Feeding,Leptoseris,,,1,Night
+Gili Lankanfushi,Site H,H-02,8m,15,47,26/03/2017,20:30:00,100,Feeding,Pavona,,,1,Night
+Gili Lankanfushi,Site H,H-02,8m,15,48,26/03/2017,20:30:00,100,(s)spawnng,,,,1,Night
+Gili Lankanfushi,Site H,H-02,8m,15,42,26/03/2017,20:30:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site H,H-03,15m,7,36,17/03/2017,8:45:00,100,Resting,,,,1,Morning
+Gili Lankanfushi,Site H,H-03,15m,7,32,17/03/2017,8:45:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site H,H-03,15m,7,42,17/03/2017,8:45:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site H,H-03,15m,7,40,17/03/2017,8:45:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site H,H-03,15m,7,42,17/03/2017,8:45:00,0,Feeding,P. lutea,,,0,Morning
+Gili Lankanfushi,Site H,H-03,15m,7,43,17/03/2017,8:45:00,0,Feeding,P. rus,,,0,Morning
+Gili Lankanfushi,Site H,H-03,15m,7,40,17/03/2017,8:45:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site H,H-03,15m,7,37,17/03/2017,8:45:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site H,H-03,15m,7,?,17/03/2017,8:45:00,0,Resting,,,,0,Morning
+Gili Lankanfushi,Site H,H-03,15m,7,39,17/03/2017,8:45:00,100,Resting,,,,1,Morning
+Gili Lankanfushi,Site H,H-03,15m,7,51,16/03/2017,11:30:00,100,Feeding,Pavona,,,1,Midday
+Gili Lankanfushi,Site H,H-03,15m,7,30,6/03/2017,11:30:00,0,Feeding,Acropora ,,,0,Midday
+Gili Lankanfushi,Site H,H-03,15m,7,35,24/02/2017,11:30:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site H,H-03,15m,7,53,14/02/2017,11:30:00,100,Feeding,Pavona,,,1,Midday
+Gili Lankanfushi,Site H,H-03,15m,7,36,4/02/2017,11:30:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site H,H-03,15m,7,30,25/01/2017,11:30:00,0,Resting,,,,0,Midday
+Gili Lankanfushi,Site H,H-03,15m,7,35,14/03/2017,16:00:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site H,H-03,15m,7,41,14/03/2017,16:00:00,100,Resting,,,,1,Afternoon
+Gili Lankanfushi,Site H,H-03,15m,7,40,14/03/2017,16:00:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site H,H-03,15m,7,40,14/03/2017,16:00:00,0,Feeding,Montipora,,,0,Afternoon
+Gili Lankanfushi,Site H,H-03,15m,7,37,14/03/2017,16:00:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site H,H-03,15m,7,35,14/03/2017,16:00:00,100,Feeding,Pavona,,,1,Afternoon
+Gili Lankanfushi,Site H,H-03,15m,7,53,14/03/2017,16:00:00,100,Feeding,Pavona,,,1,Afternoon
+Gili Lankanfushi,Site H,H-03,15m,7,38,14/03/2017,16:00:00,0,Resting,,,,0,Afternoon
+Gili Lankanfushi,Site H,H-03,15m,7,36,14/03/2017,16:00:00,100,Feeding,Pavona,,,1,Afternoon
+Gili Lankanfushi,Site H,H-03,15m,7,43,14/03/2017,16:00:00,100,Feeding,P. rus,,,1,Afternoon
+Gili Lankanfushi,Site H,H-03,15m,7,45,26/03/2017,20:00:00,100,Moving,,,,1,Night
+Gili Lankanfushi,Site H,H-03,15m,7,42,26/03/2017,20:00:00,100,Moving,,,,1,Night
+Gili Lankanfushi,Site H,H-03,15m,7,38,26/03/2017,20:00:00,100,Moving,,,,1,Night
+Gili Lankanfushi,Site H,H-03,15m,7,48,26/03/2017,20:00:00,100,Resting,,,,1,Night
+Gili Lankanfushi,Site H,H-03,15m,7,43,26/03/2017,20:00:00,100,Moving,,,,1,Night
+Gili Lankanfushi,Site H,H-03,15m,7,44,26/03/2017,20:00:00,100,Feeding,P. lutea,,,1,Night
+Gili Lankanfushi,Site H,H-03,15m,7,39,26/03/2017,20:00:00,100,Moving,,,,1,Night
