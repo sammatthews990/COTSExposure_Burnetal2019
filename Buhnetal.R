@@ -143,6 +143,7 @@ data.COTS.beh = move %>% filter(!Habitat %in% "Flat") %>%
               summarise(nTot = n())) %>%
   mutate(Freq = n/nTot)
 
+
 # COTS SUmmary Behaviour for summary stats (i.e Mean proportion)
 data.COTS.beh2 = move %>% filter(!Habitat %in% "Flat") %>%
   dplyr::group_by(Reef,Behaviour, Transect) %>%
@@ -154,6 +155,16 @@ data.COTS.beh2 = move %>% filter(!Habitat %in% "Flat") %>%
   ungroup() %>% group_by(Reef, Behaviour)%>%
   summarise(MeanFreq = mean(Freq),
             SEFreq = (sd(Freq)/sqrt(n())))
+# Summary behaviour by Reef and time category
+data.COTS.beh3 = move %>% filter(!Habitat %in% "Flat") %>%
+  dplyr::group_by(Reef,Behaviour, Time_Cat, Transect) %>%
+  summarise(n = n()) %>%
+  left_join(move %>% 
+              dplyr::group_by(Reef,Time_Cat,Transect) %>%
+              summarise(nTot = n())) %>%
+  mutate(Freq = n/nTot)
+
+
 
 # COTS SUmmary Density by Habitat
 data.COTS.sum = data.COTS %>% group_by(Reef, Habitat) %>%
@@ -247,15 +258,6 @@ anova(lm4)
 # PostHOC Pairwise comparisons
 lsmeans(lm4, list(pairwise ~ Habitat|Reef))
 lsmeans(lm4, list(pairwise ~ Time_Cat|Reef))
-
-# BEHAVIOURAL PROPORTIONS MODEL ----
-lm5 = lm(Freq~Reef*Behaviour, data = data.COTS.beh)
-
-# ANOVA
-anova(lm5)
-# PostHOC Pairwise comparisons
-lsmeans(lm5, list(pairwise ~ Behaviour|Reef))
-lsmeans(lm5, list(pairwise ~ Reef|Behaviour))
 
 
 #### CORAL COMMUNITY COMPOSITION ANALYSIS ####
@@ -401,8 +403,8 @@ p7 =ggplot() +
 # Arrange Pie and NMDS Plot
 gridExtra::grid.arrange(p6, p7)
 # Export Plot
-graph2eps(file="Figure3.eps", aspectr=3, font = "Arial", height = 8, width=8, bg = "transparent")
-graph2tif(file="Figure3.tiff",dpi=300, font = "Arial", height=8, width=8)
+graph2eps(file="Figure2.eps", aspectr=3, font = "Arial", height = 8, width=8, bg = "transparent")
+graph2tif(file="Figure2.tiff",dpi=300, font = "Arial", height=8, width=8)
 
 
 #### EXPOSURE BRMS MODEL ####
@@ -410,7 +412,8 @@ graph2tif(file="Figure3.tiff",dpi=300, font = "Arial", height=8, width=8)
 # Add density and coral to dataset
 data.MOVE = move %>% left_join(dplyr::select(data.COTS, Transect, Habitat, COTSPer100)) %>%
   left_join(dplyr::select(data.CORAL, Transect, Acropora, Pocillopora)) %>%
-  filter(!Habitat %in% "Flat")
+  filter(!Habitat %in% "Flat") %>%
+  mutate(Feed = ifelse(Behaviour %in% "Feeding", 1, 0))
 
 # Fit Models
 model.brms = brm(formula = Exposure_binary ~ Habitat + Diam_cm + Time_Cat*Reef + Behaviour + Acropora,
@@ -439,6 +442,11 @@ model.brms5 = brm(formula = Exposure_binary ~ Habitat + Diam_cm + Time_Cat*Reef 
                   family = bernoulli(),
                   warmup = 200, iter = 1000, chains = 3, cores = 3,
                   control = list(adapt_delta = 0.95))
+model.brms6 = brm(formula = Exposure_binary ~ Habitat + Diam_cm*Time_Cat + Time_Cat*Reef + Behaviour + Acropora,
+                 data = data.MOVE,
+                 family = bernoulli(),
+                 warmup = 200, iter = 1000, chains = 3, cores = 3,
+                 control = list(adapt_delta = 0.95))
 
 
 summary(model.brms)
@@ -446,12 +454,12 @@ summary(model.brms2)
 summary(model.brms3)
 summary(model.brms4)
 summary(model.brms5)
-
+summary(model.brms6)
 # Compare
-WAIC(model.brms, model.brms2, model.brms3, model.brms4, model.brms5)
+WAIC(model.brms, model.brms2, model.brms3, model.brms4, model.brms5, model.brms6)
 
 # Model 1 wins
-
+summy = summary(model.brms)$fixed
 # Create Effects Plot
 pa = ploteffects.brms(model.brms) + theme_bw(base_size = 14) + 
   scale_x_discrete(limits = rev(rownames(summy)[-1]),
@@ -476,6 +484,8 @@ pd = plot(marginal_effects(model.brms, "Behaviour"), points=F)[[1]]
 pd = pd + theme_bw(base_size = 14) + xlab("Behaviour") + 
   ylab("P(Exposure)") + ggtitle("(d)")
 
+ 
+
 # Arrange PLots
 gridExtra::grid.arrange(pa + theme(plot.background = element_rect(size=0.5,linetype="solid",color="grey")),
                         pb + theme(plot.background = element_rect(size=0.5,linetype="solid",color="grey")),
@@ -483,11 +493,8 @@ gridExtra::grid.arrange(pa + theme(plot.background = element_rect(size=0.5,linet
                         pd + theme(plot.background = element_rect(size=0.5,linetype="solid",color="grey")),
                         ncol=2, widths = c(3,2))
 # Save plots
-graph2eps(file="Figure5.eps", aspectr=3, font = "Arial", height = 8, width=10, bg = "transparent")
-graph2tif(file="Figure5.tiff",dpi=300, font = "Arial", height=8, width=10)
-
-
-
+graph2eps(file="Figure3.eps", aspectr=3, font = "Arial", height = 8, width=10, bg = "transparent")
+graph2tif(file="Figure3.tiff",dpi=300, font = "Arial", height=8, width=10)
 
 #### Post Hos Comparisons ####
 
@@ -514,4 +521,137 @@ mcmcpvalue(as.matrix(model.brms)[, "b_HabitatSlope"])
 #### YAY WE DID IT! ####
 
 
+#### Behaviour Model ####
 
+# BEHAVIOURAL PROPORTIONS MODEL ----
+# lm5 = lm(Freq~Reef*Behaviour, data = data.COTS.beh)
+
+# z proportional test
+table(data.MOVE$Behaviour, data.MOVE$Reef)
+table(data.MOVE$Reef)
+#Feeding
+prop.test(c(70,288), c(159,823), alternative = "greater")
+#Resting
+prop.test(c(74,469), c(159,823), alternative = "less")
+# Moving
+prop.test(c(15,66), c(159,823), alternative = "less")
+
+
+
+data.MOVE.MAL = data.MOVE %>% dplyr::filter(Reef %in% "Gili Lankanfushi")
+data.MOVE.RIB = data.MOVE %>% dplyr::filter(Reef %in% "Rib Reef") %>%
+  mutate(Size = ifelse(Diam_cm < 25, "u25", "o25"))
+data.MOVE.RIB.u25 = data.MOVE %>% dplyr::filter(Reef %in% "Rib Reef" & Diam_cm <25)
+data.MOVE.RIB.o25 = data.MOVE %>% dplyr::filter(Reef %in% "Rib Reef" & Diam_cm >25)
+
+# p8 = ggplot(data.COTS.beh3 %>% filter(Behaviour %in% "Feeding"), 
+#        aes(x=Time_Cat,y=Freq, colour=Reef)) + geom_boxplot() + 
+#   theme_bw(base_size = 11) + facet_wrap(~Reef, ncol = 2) +
+#   theme(legend.position = "none", axis.title.x = element_blank()) +
+#   ylab("Proportion of COTS Feeding") +
+#   scale_color_manual(values = c("seagreen","orange"))
+# p9 = ggplot(data.COTS.beh3 %>% filter(Behaviour %in% "Moving"), 
+#        aes(x=Time_Cat,y=Freq, colour=Reef)) + geom_boxplot() + 
+#   theme_bw(base_size = 11) + facet_wrap(~Reef, ncol = 2) +
+#   theme(legend.position = "none",axis.title.x = element_blank()) +
+#   xlab("Observation Time") + ylab("Proportion of COTS Moving") +
+#   scale_color_manual(values = c("seagreen","orange"))
+# p10= ggplot(data.COTS.beh3 %>% filter(Behaviour %in% "Resting"), 
+#             aes(x=Time_Cat,y=Freq, colour=Reef)) + geom_boxplot() + 
+#   theme_bw(base_size = 11) + facet_wrap(~Reef, ncol = 2) +
+#   theme(legend.position = "none") +
+#   xlab("Observation Time") + ylab("Proportion of COTS Moving") +
+#   scale_color_manual(values = c("seagreen","orange"))
+# 
+# grid.arrange(p8,p9,p10, ncol=1)
+# # Save plots
+# graph2eps(file="Figure4.eps", aspectr=3, font = "Arial", height = 8, width=6, bg = "transparent")
+# graph2tif(file="Figure4.tiff",dpi=300, font = "Arial", height=8, width=6)
+
+# Rib Feeding
+prop.table(table(data.MOVE.RIB$Behaviour, data.MOVE.RIB$Time_Cat),margin = 2)
+table(data.MOVE.RIB$Behaviour, data.MOVE.RIB$Time_Cat) 
+table(data.MOVE.RIB$Time_Cat)
+#Feeding
+prop.test(c(172,43), c(263,161), alternative = "greater")
+
+# Rib Feeding by Size - Under 25
+prop.table(table(data.MOVE.RIB.u25$Behaviour, data.MOVE.RIB.u25$Time_Cat),margin = 2)
+table(data.MOVE.RIB.u25$Behaviour, data.MOVE.RIB.u25$Time_Cat) 
+table(data.MOVE.RIB.u25$Time_Cat)
+
+# Rib Feeding by Size - Over 25
+prop.table(table(data.MOVE.RIB.o25$Behaviour, data.MOVE.RIB.o25$Time_Cat),margin = 2)
+table(data.MOVE.RIB.u25$Behaviour, data.MOVE.RIB.u25$Time_Cat) 
+table(data.MOVE.RIB.u25$Time_Cat)
+#Feeding
+prop.test(c(172,43), c(263,161), alternative = "greater")
+#Feeding
+prop.test(c(172,43), c(263,161), alternative = "greater")
+
+
+# Gili Feeding
+prop.table(table(data.MOVE.MAL$Behaviour, data.MOVE.MAL$Time_Cat),margin = 2)
+table(data.MOVE.MAL$Behaviour, data.MOVE.MAL$Time_Cat)
+table(data.MOVE.MAL$Time_Cat)
+#Feeding
+prop.test(c(20,13), c(31,34), alternative = "greater")
+# model2.brms1 = brm(Feed~Habitat + Diam_cm + Time_Cat*Reef + Acropora + 
+#              COTSPer100 + Coral.Cover, data = data.MOVE, family = bernoulli(),
+#            warmup = 200, iter = 1000, chains = 3, cores = 3,
+#            control = list(adapt_delta = 0.95))
+# model2.brms2 = brm(Feed~Habitat + Diam_cm*Time_Cat + Time_Cat*Reef + Acropora + 
+#              COTSPer100 + Coral.Cover, data = data.MOVE, family = bernoulli(),
+#            warmup = 200, iter = 1000, chains = 3, cores = 3,
+#            control = list(adapt_delta = 0.95))
+# summary(model2.brms1)
+# summary(model2.brms2)
+# plot(marginal_effects(model2.brms2, "Diam_cm:Time_Cat"), points=F)[[1]]
+# WAIC(model2.brms1, model2.brms2)
+# model2_em <- emmeans(model2.brms2,  ~ Time_Cat | Diam_cm)
+# model2_em2 <- emmeans(model2.brms2,  ~  Reef | Time_Cat)
+# model2_em3 <- emmeans(model2.brms2,  ~  Habitat)
+# 
+# 
+# #get all possible contrasts
+# cont <- contrast(model2_em, "tukey")
+# cont2 <- contrast(model2_em2, "tukey")
+# cont3 <- contrast(model2_em3, "tukey")
+# cont
+# cont2
+# cont3
+# 
+# # plot Results
+# summy = summary(model2.brms2)$fixed
+# p2a = ploteffects.brms(model2.brms2) + theme_bw(base_size = 14) + 
+#   # scale_x_discrete(limits = rev(rownames(summy)[-1]),
+#   #                  labels = c("Night - Morning : Reef(Rib)", "Afternoon - Morning : Reef(Rib)",
+#   #                             "Midday - Morning : Reef(Rib)","% Acropora", "Moving - Resting",
+#   #                             "Feeding - Resting",
+#   #                             "Rib Reef - Gili Lankanfushi", "Night - Morning", "Afternoon - Morning",
+#   #                             "Midday - Morning", "Diameter of Starfish (cm)", "Slope - Crest")) +
+#   ylab("Effect Size (Log Odds-Ratio)") + ggtitle("(a)") + xlab("Variable")
+# p2a
+# # Diameter Marginal Effects plot
+# p2b = plot(marginal_effects(model.brms, "Diam_cm:Time_Cat"), points=F)[[1]] 
+# p2b = p2b + theme_bw(base_size = 14) + xlab("Diameter of Starfish (cm)") + 
+#   ylab("P(Exposure)") + ggtitle("(b)")
+# # Time:Reef Marginal effects plot
+# p2c = plot(marginal_effects(model.brms, "Time_Cat:Reef"), points=F)[[1]] 
+# pc = pc + theme_bw(base_size = 14) + xlab("Time of Observation") + 
+#   ylab("P(Exposure)") + scale_color_manual(values = c( "seagreen", "orange")) +
+#   theme(legend.position = "left") + ggtitle("(c)")
+# # Behaviou Marginal effects plot
+# pd = plot(marginal_effects(model.brms, "Behaviour"), points=F)[[1]] 
+# pd = pd + theme_bw(base_size = 14) + xlab("Behaviour") + 
+#   ylab("P(Exposure)") + ggtitle("(d)")
+# 
+# # Arrange PLots
+# gridExtra::grid.arrange(pa + theme(plot.background = element_rect(size=0.5,linetype="solid",color="grey")),
+#                         pb + theme(plot.background = element_rect(size=0.5,linetype="solid",color="grey")),
+#                         pc + theme(plot.background = element_rect(size=0.5,linetype="solid",color="grey")),
+#                         pd + theme(plot.background = element_rect(size=0.5,linetype="solid",color="grey")),
+#                         ncol=2, widths = c(3,2))
+# # Save plots
+# graph2eps(file="Figure3.eps", aspectr=3, font = "Arial", height = 8, width=10, bg = "transparent")
+# graph2tif(file="Figure3.tiff",dpi=300, font = "Arial", height=8, width=10)
